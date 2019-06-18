@@ -1,0 +1,658 @@
+Record	REFERENCE	NAME	LENGTH	YEAR_KNOWN	EASTING	NORTHING
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587412' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE134/B	HURLINGHAM HOUSING ESTATE	10	null	525230	176020
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/586603' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NW24	BISHOPS PALACE COURT YARD FULHAM	96.32000000000001	1823	524010	176130
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588101' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE700	TOWNMEAD LINK RD BH4	20.1	null	525930	175770
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587525' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE231	STABLE WELL HUGON ROAD FULHAM	7.32	null	525700	175800
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/20364708' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE2362	PARSONS GREEN SPORTS AND SOCIAL CLUB BROOMHOUSE LANE	110	2018	525310	175836
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587413' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE134	HURLINGHAM HOUSING ESTATE FULHAM	14.63	null	525230	176020
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/586613' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NW34	H84 FULHAM	14.76	null	524230	175760
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/586614' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NW35	H85 FULHAM	13.72	null	524350	175800
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587072' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NW477	RANELAGH GARDENS LONDON SW6	10.5	1995	524830	175860
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587073' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NW478	RANELAGH GARDENS LONDON SW6	10	1995	524870	175870
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587170' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NW575	81-83 HIGH STREET, FULHAM	14.32	null	524480	175900
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/586632' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NW53	BISHOPS MEWS SW 6 FULHAM	9.14	null	524300	175900
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/586838' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NW252	69 FULHAM HIGH STREET 2	25.900000000000002	null	524423	175917
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/586840' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NW254	69 FULHAM HIGH STREET 4	25.900000000000002	null	524471	175937
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/586841' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NW255/A	69 FULHAM HIGH STREET 5	11	null	524471	175937
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587019' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NW424	HIGH STREET FULHAM	9.14	1926	524470	175950
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/586839' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NW253	69 FULHAM HIGH STREET 3	25.900000000000002	null	524443	175966
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/586837' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NW251	69 FULHAM HIGH STREET 1	25.900000000000002	null	524472	175990
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27NW956	10 NAPIER AVENUE FULHAM LONDON SW6 WS2	Confidential	1996	524730	176010
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/586611' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NW32	H82 FULHAM	11.13	null	524590	176040
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/586924' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NW336/A	FULHAM POTTERY BH1-2	20	null	524500	176050
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/586925' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NW336/A-B	FULHAM POTTERY BH1-2	20	null	524500	176050
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/586630' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NW51	81-83 HIGH STREET FULHAM	7.62	null	524400	176100
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/17498565' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NW731	THE VINEYARD, 76 HURLINGHAM ROAD, LONDON	12	2007	524800	176200
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/586651' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NW72	BISHOPS PARK BH1-4 FULHAM	7.62	null	524300	176200
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27NW921	ASHINGTON ROAD FULHAM TP102	Confidential	2003	524870	176220
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27NW917	ASHINGTON ROAD FULHAM WS101	Confidential	2003	524880	176220
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27NW910	ASHINGTON ROAD FULHAM 101	Confidential	2003	524880	176220
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27NW913	ASHINGTON ROAD FULHAM 104	Confidential	2003	524870	176230
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27NW918	ASHINGTON ROAD FULHAM WS102	Confidential	2003	524870	176230
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27NW915	ASHINGTON ROAD FULHAM 106	Confidential	2003	524870	176230
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27NW914	ASHINGTON ROAD FULHAM 105	Confidential	2003	524870	176230
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27NW916	ASHINGTON ROAD FULHAM 107	Confidential	2003	524870	176230
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27NW911	ASHINGTON ROAD FULHAM 102	Confidential	2003	524860	176240
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27NW920	ASHINGTON ROAD FULHAM TP101	Confidential	2003	524860	176240
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27NW919	ASHINGTON ROAD FULHAM WS103	Confidential	2003	524870	176240
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27NW912	ASHINGTON ROAD FULHAM 103	Confidential	2003	524870	176250
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588044' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE643	WANDSWORTH GAS WORKS BH9	24	null	525870	175290
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588488' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1077	ALLSOPS WHARF S.W.18 BH1-9	15.24	1963	525400	175300
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588261' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE859	WANDSWORTH BH2 (TERRESEARCH LTD)	12.19	null	525401	175305
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588038' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE637	WANDSWORTH GAS WORKS BH3	24	null	525750	175320
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/16124490' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1983	FALCONBROOK RELIEF SEWER 1	23	1978	525910	175380
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589057' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1635	FALCONBROOK RELIEF SEWER	23	1978	525910	175380
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588039' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE638	WANDSWORTH GAS WORKS BH4	18	null	525890	175390
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/16021103' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1962	WANDSWORTH CONCRETE PLANT	130	2006	525940	175400
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588495' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1084	WANDEL VALLEY SEWER BH15	6.4	null	525950	175430
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588496' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1085	WANDEL VALLEY SEWER 16	10.52	null	525920	175480
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589255' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1833	113 CARNWATH ROAD FULHAM LONDON SW6 1	10.05	1969	525450	175540
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587520' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE227	OSCAR FABER & PARTNERS FULHAM 1	12.8	null	525390	175550
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587521' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE228	OSCAR FABER & PARTNERS FULHAM 2	16.46	null	525450	175550
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587522' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE229	OSCAR FABER & PARTNERS FULHAM 3	13.41	null	525510	175550
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587334' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE71	WANDSWORTH BRIDGE SW H96 FULHAM	0.91	null	525940	175590
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587545' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE248	CARNWATH LAUNDRY FULHAM LONDON	10.97	null	525700	175600
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589114' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1692	CORNWATH ROAD, FULHAM	9.14	null	525700	175600
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Scan not currently available in GeoIndex – try GeoRecords Plus+.</a>	TQ27NE313/A	CARNWATH ROAD FULHAM	9.14	null	525800	175600
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Scan not currently available in GeoIndex – try GeoRecords Plus+.</a>	TQ27NE313/B	CARNWATH ROAD FULHAM	9.9	null	525800	175600
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587821' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE462	PETERBOROUGH RD HAMMERSMITH BH2	15.24	null	525685	175629
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587326' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE63	WANDSWORTH BRIDGE SW H88 FULHAM	9.68	null	525930	175640
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587823' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE464	PETERBOROUGH RD HAMMERSMITH BH4	13.72	null	525672	175643
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588099' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE698	TOWNMEAD LINK RD BH2	25.3	null	525910	175650
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588098' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE697	TOWNMEAD LINK RD BH11	20.1	null	525920	175670
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587824' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE465	PETERBOROUGH RD HAMMERSMITH BH5	13.72	null	525734	175678
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587820' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE461	PETERBOROUGH RD HAMMERSMITH BH1	15.24	null	525684	175679
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587822' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE463	PETERBOROUGH RD HAMMERSMITH BH3	13.26	null	525640	175698
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587586' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE278	LADY MARGARET ROAD SCHOOL FULHAM	4	null	525600	175700
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Scan not currently available in GeoIndex – try GeoRecords Plus+.</a>	TQ27NE1352/A	PETERBOROUGH RD TP.A-HJ-L	2	null	525700	175700
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Scan not currently available in GeoIndex – try GeoRecords Plus+.</a>	TQ27NE1352	PETERBOROUGH ROAD HAMMERSMITH A-HJ-L	3	null	525700	175700
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588100' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE699	TOWNMEAD LINK RD BH3	30.2	null	525920	175710
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/586845' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NW258	L.C.C. MAIN DRAINAGE BH1	12.19	null	524420	175200
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587203' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NW608	8 STRATFORD GROVE, PUTNEY	Unknown	null	523900	175300
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/586844' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NW257	L.C.C. MAIN DRAINAGE BORING A	33.37	null	524350	175360
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/586625' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NW46	P6 PUTNEY	6.4	null	524760	175360
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587247' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NW652	95-97 DEODAR ROAD PUTNEY 2	5	2000	524560	175390
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587246' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NW651	95-97 DEODAR ROAD PUTNEY 1	5	2000	524560	175390
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587248' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NW653	95-97 DEODAR ROAD PUTNEY 3	6	2000	524560	175390
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587249' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NW654	95-97 DEODAR ROAD PUTNEY 4	5	2000	524560	175390
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/586944' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NW351	NUMBER NOT USED (RE-REGISTERED AS TQ27NW / 721 - 723)	22.86	1970	524000	175400
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587186' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NW591	1 STRATFORD GROVE, PUTNEY	Unknown	null	523900	175400
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/586624' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NW45	P1 PUTNEY	7.92	null	524270	175420
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/586627' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NW48	BRANDONS BREWERY PUTNEY	152.4	1898	524050	175430
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27NW722	PUTNEY HIGH STREET 3	Confidential	1970	524040	175440
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27NW723	PUTNEY HIGH STREET 4	Confidential	1970	524010	175440
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587171' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NW576	BREWERY, FELSHAM ROAD, PUTNEY	5.18	null	524040	175450
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27NW721	PUTNEY HIGH STREET 2	Confidential	1970	524040	175470
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587048' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NW453	PUTNEY HIGH STREET 3	13.72	1971	524170	175490
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587049' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NW454	PUTNEY HIGH STREET 4	10.06	1971	524200	175500
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587047' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NW452	PUTNEY HIGH STREET 2	9.14	1971	524130	175510
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587050' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NW455	PUTNEY HIGH STREET 5	10.06	1971	524180	175530
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587046' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NW451	PUTNEY HIGH STREET 1	7.62	1971	524150	175540
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/590294' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE775	BUS DEPOT, HIGH STREET, PUTNEY	137.16	1913	524200	175550
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/590295' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE776	BUS DEPOT, HIGH STREET, PUTNEY	137.16	1913	524200	175550
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27NW352	GAY STREET PUTNEY 1-5	Confidential	1971	523900	175600
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/586604' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NW25	FRANCIS TUCKER & CO PUTNEY	152.4	1907	524060	175600
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587096' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NW501	PUTNEY RAIL BRIDGE BH1	31.45	1992	524480	175620
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/586615' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NW36	H86 FULHAM	14.55	null	524180	175620
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587097' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NW502	PUTNEY RAIL BRIDGE BH2	30	1992	524450	175630
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/586612' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NW33	H83 PUTNEY	14.780000000000001	null	524190	175710
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/586633' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NW54	PUTNEY BRIDGE THS FULHAM	6.09	null	524220	175740
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Scan not currently available in GeoIndex – try GeoRecords Plus+.</a>	TQ27NW335/A-D	HURLINGHAM COURT BH1-4	12.67	null	524530	175750
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588047' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE646	WANDSWORTH GAS WORKS BH12	18	null	525750	175150
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27NE1929	A217 YORK ROAD DIVERSION WANDSWORTH B4	Confidential	1980	525760	175060
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27NE1946	A217 YORK ROAD DIVERSION WANDSWORTH W1	Confidential	1980	525770	175030
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27NE1928	A217 YORK ROAD DIVERSION WANDSWORTH B3	Confidential	1980	525770	175060
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27NE1926	A217 YORK ROAD DIVERSION WANDSWORTH B1	Confidential	1980	525770	175090
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27NE1930	A217 YORK ROAD DIVERSION WANDSWORTH E1	Confidential	1980	525770	175070
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27NE1947	A217 YORK ROAD DIVERSION WANDSWORTH W2	Confidential	1980	525770	175110
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27NE1931	A217 YORK ROAD DIVERSION WANDSWORTH E2	Confidential	1980	525780	175080
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27NE1932	A217 YORK ROAD DIVERSION WANDSWORTH E3	Confidential	1980	525790	175090
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27NE1927	A217 YORK ROAD DIVERSION WANDSWORTH B2	Confidential	1980	525800	175100
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27NE1948	A217 YORK ROAD DIVERSION WANDSWORTH W3	Confidential	1980	525800	175120
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27NE1943	A217 YORK ROAD DIVERSION WANDSWORTH V3	Confidential	1980	525800	175240
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588043' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE642	WANDSWORTH GAS WORKS BH8	18	null	525800	175230
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27NE1933	A217 YORK ROAD DIVERSION WANDSWORTH R3	Confidential	1980	525810	175160
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Scan not currently available in GeoIndex – try GeoRecords Plus+.</a>	TQ27SE85	VANDYKE T.E. WANDSWORTH	10	null	525820	174960
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Scan not currently available in GeoIndex – try GeoRecords Plus+.</a>	TQ27SE85/A-D	VANDYKE T.E. WANDSWORTH	Unknown	null	525820	174960
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27NE1894	FERRIER STREET WANDSWORTH A	Confidential	1981	525820	175050
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589542' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE51	CNR OF YORK RD & FAIRFIELD ST P5	8.53	null	525820	174920
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587858' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE499/B	WANDSWORTH GAS WORKS	192	1905	525840	175230
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587859' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE499	WANDSWORTH GAS WORKS	192.02	1929	525840	175230
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27NE1934	A217 YORK ROAD DIVERSION WANDSWORTH R4	Confidential	1980	525850	175180
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27NE1944	A217 YORK ROAD DIVERSION WANDSWORTH V4	Confidential	1980	525860	175270
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27NE1897	FERRIER STREET WANDSWORTH D	Confidential	1981	525860	175010
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27NE1895	FERRIER STREET WANDSWORTH B	Confidential	1981	525880	175070
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27NE1898	FERRIER STREET WANDSWORTH E	Confidential	1981	525900	175040
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588048' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE647	WANDSWORTH GAS WORKS BH13	18	null	525900	175240
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27NE1935	A217 YORK ROAD DIVERSION WANDSWORTH R5	Confidential	1980	525900	175200
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27NE1945	A217 YORK ROAD DIVERSION WANDSWORTH V5	Confidential	1980	525910	175280
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27NE1896	FERRIER STREET WANDSWORTH C	Confidential	1981	525940	175080
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27NE1936	A217 YORK ROAD DIVERSION WANDSWORTH R6	Confidential	1980	525940	175210
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588045' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE644	WANDSWORTH GAS WORKS BH10	24	null	525940	175280
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588263' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE861	WANDSWORTH 4	19.35	null	525420	175281
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588264' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE862	WANDSWORTH 5	15.84	null	525440	175238
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588265' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE863	WANDSWORTH 6	14.48	null	525447	175197
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587540' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE243	POINT PLEASANT WANDSWORTH BH1	6.93	null	525449	175048
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588040' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE639	WANDSWORTH GAS WORKS BH5	18	null	525510	175150
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Scan not currently available in GeoIndex – try GeoRecords Plus+.</a>	TQ27NE346	WANDSWORTH TOWN BRIDGE B.R.S.R	9	null	525550	175060
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Scan not currently available in GeoIndex – try GeoRecords Plus+.</a>	TQ27NE346/A-B	BR-SR TOWN BRIDGE WANDSWORTH	11.98	null	525550	175060
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588036' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE635	WANDSWORTH GAS WORKS BH1	24	null	525560	175290
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589543' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE52	CNR OF BELL LANE & WANDSWORTH PLANE P3	7.92	null	525560	174860
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588041' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE640	WANDSWORTH GAS WORKS BH6	18	null	525570	175180
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27SE928	ARMOURY WAY WANDSWORTH 1	Confidential	2001	525599	174886
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588487' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1076	NO.9&10 GAS HOLDERS WANDSW'TH GAS WORKS BH1-11,1-4	21.79	1954	525600	175000
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27SE937	ARMOURY WAY WANDSWORTH WS9	Confidential	2001	525602	174909
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27SE934	ARMOURY WAY WANDSWORTH WS6	Confidential	2001	525613	174887
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27SE936	ARMOURY WAY WANDSWORTH WS8	Confidential	2001	525618	174905
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27SE935	ARMOURY WAY WANDSWORTH WS7	Confidential	2001	525635	174906
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588037' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE636	WANDSWORTH GAS WORKS BH2	18	null	525640	175290
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588042' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE641	WANDSWORTH GAS WORKS BH7	18	null	525670	175180
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27SE930	ARMOURY WAY WANDSWORTH 3	Confidential	2001	525674	174915
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27SE933	ARMOURY WAY WANDSWORTH WS5	Confidential	2001	525675	174892
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589135' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1713	WANDSWORTH GAS WORKS	192.02	1905	525680	175250
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/590072' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE553	WANDSWORTH GAS WORKS 2	20	null	525690	174854
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27NE1941	A217 YORK ROAD DIVERSION WANDSWORTH V1	Confidential	1980	525700	175180
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587579' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE271	WANDSWORTH GAS WORKS WANDSWORTH	10.21	null	525700	175200
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/590071' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE552	WANDSWORTH GAS WORKS 1	25	null	525700	174918
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Scan not currently available in GeoIndex – try GeoRecords Plus+.</a>	TQ27NE271/A	WANDSWORTH GAS WORKS	12	null	525700	175200
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27SE932	ARMOURY WAY WANDSWORTH WS4	Confidential	2001	525703	174922
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27SE929	ARMOURY WAY WANDSWORTH 2	Confidential	2001	525703	174884
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27SE931	ARMOURY WAY WANDSWORTH WS3	Confidential	2001	525706	174902
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/590073' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE554	WANDSWORTH GAS WORKS 3	20	null	525739	174820
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27NE1942	A217 YORK ROAD DIVERSION WANDSWORTH V2	Confidential	1980	525750	175210
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589374' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SW104	WEST HILL E.F.M. SITE WANDSWORTH BH1	12.19	null	524850	174490
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589375' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SW105	WEST HILL E.F.M. SITE WANDSWORTH BH2	12.19	null	524870	174530
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/586722' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NW142	BOTHY WANDSWORTH PARK WANDSWORTH	1.37	null	524900	175200
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/586626' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NW47	PUTNEY P7	5	null	524900	175300
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589261' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SW2	ROYAL HOSPITAL FOR INCURABLES P/HEATH	8	null	524920	174580
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/586846' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NW259	L.C.C. MAIN DRAINAGE BH2	11.58	null	524940	175060
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589893' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE374	WANDSWORTH NEW FIRE STATION BH1-2	4.57	null	525000	174600
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587478' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE189	P7	4.9	null	525000	175310
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589901' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE382	LEBANON ROAD BH1-4	1.37	null	525100	174560
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589948' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE429	CONVENT WEST HILL BH4	12	null	525140	174870
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589945' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE426	CONVENT WEST HILL BH1	12	null	525160	174690
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589946' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE427	CONVENT WEST HILL BH2	13	null	525160	174750
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589947' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE428	CONVENT WEST HILL BH3	10	null	525160	174800
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589764' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE246	L.C.C.LOW LEVEL RELIEF SEWER BH3	10	1960	525170	174950
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587479' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE190	UNION BREWERY WANDSWORTH	101.8	null	525190	175220
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588446' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1039	L.C.C.LOW LEVEL RELIEF SEWER B	9.450000000000001	null	525200	175000
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589950' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE431	CONVENT WEST HILL BH6	15	null	525210	174730
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589544' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE53	CNR OF NORTH PLACE & PUTNEY BRIDGE RD P2	5.7700000000000005	null	525210	174970
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589952' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE433	CONVENT WEST HILL BH8	15	null	525210	174890
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589949' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE430	CONVENT WEST HILL BH5	10	null	525210	174670
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589951' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE432	CONVENT WEST HILL BH7	10	null	525210	174810
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589953' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE434	CONVENT WEST HILL BH9	10	null	525220	174780
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589955' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE436	CONVENT WEST HILL BH11	10	null	525230	174890
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589765' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE247	L.C.C.LOW LEVEL RELIEF SEWER BH4	9.450000000000001	null	525230	174650
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589954' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE435	CONVENT WEST HILL BH10	9	null	525240	174830
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Scan not currently available in GeoIndex – try GeoRecords Plus+.</a>	TQ27NE345/A-E	BR-SR POINT PLEASANT WANDSWORTH	18	null	525250	175010
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Scan not currently available in GeoIndex – try GeoRecords Plus+.</a>	TQ27SE256/A-B	WEST HILL P.SCHOOL MERTON RD BHS.A-B	3.04	null	525260	174520
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588260' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE858	WANDSWORTH 1	12.19	null	525360	175296
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588262' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE860	WANDSWORTH 3	16.92	null	525376	175280
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589625' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE115	L.C.C.FROGMORE CHILDRENS HOME WANDSWORTH 2	9.14	1961	525380	174880
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587541' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE244	POINT PLEASANT WANDSWORTH BH2	9.14	null	525389	175045
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587666' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE338	CLAPHAM JUNCTION BRIDGE CLAPHAM	5.94	null	527690	175930
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587392' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE118/E	LATCHMERE ROAD	137.16	1903	527630	176260
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587931' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE550	LIVINGSTONE ROAD (STAGE 4) BH5 (TP.C)	12.19	null	527150	175660
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587943' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE562	LIVINGSTONE ROAD (STAGE 4) BH17	5.79	null	527190	175670
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587484' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE195	BATTERSEA RISE CLAPHAM JUNCTION	17.830000000000002	null	527190	175050
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587936' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE555	LIVINGSTONE ROAD (STAGE 4) BH10	10.67	null	527210	175680
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588389' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE985	CLAPHAM JUNCTION BH5	30	null	527255	175440
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587485' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE196	CNR OF STRATH TERRACE CLAPHAM JUNCTION	8.15	null	527260	175103
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588388' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE984	CLAPHAM JUNCTION BH4	30	null	527279	175464
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588387' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE983	CLAPHAM JUNCTION BH2	40	null	527312	175491
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588386' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE982	CLAPHAM JUNCTION BH1	30	null	527337	175533
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588714' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1297	MOSSBURY RD-FALCON RD BH3	9	null	527370	175528
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588713' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1296	MOSSBURY RD-FALCON RD BH2	15	null	527379	175535
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587486' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE197	CNR OF NORTHCOTE RD CLAPHAM JUNCTION	9.75	null	527417	175137
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588789' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1371	BATTERSEA RISE BPO	6	null	527470	175100
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589617' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE107	FIRE STATION NORTHCOTE RD BATTERSEA	2	null	527499	174645
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588795' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1377	BATTERSEA RISE-LONDON	30	null	527500	175000
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587487' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE198	CNR OF ALMERIC ROAD CLAPHAM JUNCTION	13.790000000000001	null	527510	175140
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587602' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE294	BATTERSEA RISE BATTERSEA	3.35	null	527600	175100
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589758' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE240	BELLEVILLE P.SCHOOL SW.11	2.6	null	527620	174710
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Scan not currently available in GeoIndex – try GeoRecords Plus+.</a>	TQ27NE266/A-E	BATTERSEA DISTRICT OFFICE GPO	12.64	null	527630	175540
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587570' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE266/A	BATTERSEA DISTRICT OFFICE GPO	12	null	527630	175540
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587488' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE199	S END PALMA CRESCENT CLAPHAM JUNCTION	20.27	1910	527690	175230
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588664' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1248	YORK ROAD INGRAVE ST & VERNON ST G	15.24	null	527072	175813
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587934' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE553	LIVINGSTONE ROAD (STAGE 4) BH8	21.34	null	527090	175700
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587928' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE547	LIVINGSTONE ROAD (STAGE 4) BH2	9.14	null	527090	175810
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587932' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE551	LIVINGSTONE ROAD (STAGE 4) BH6	10.67	null	527100	175750
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587358' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE89	JUNCTION OF YORK RD H116	5.26	null	527100	176150
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587944' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE563	LIVINGSTONE ROAD (STAGE 4) BH18	30.48	null	527120	175850
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587933' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE552	LIVINGSTONE ROAD (STAGE 4) BH7	12.19	null	527140	175700
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587935' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE554	LIVINGSTONE ROAD (STAGE 4) BH9 (TP.B)	36.57	null	527160	175710
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587927' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE546	LIVINGSTONE ROAD (STAGE 4) BH1	10.67	null	527160	175840
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587929' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE548	LIVINGSTONE ROAD (STAGE 4) BH3	30.48	null	527160	175760
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587930' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE549	LIVINGSTONE ROAD (STAGE 4) BH4	18.29	null	527180	175730
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587939' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE558	LIVINGSTONE ROAD (STAGE 4) BH13	6.09	null	527190	175730
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587938' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE557	LIVINGSTONE ROAD (STAGE 4) BH12 (TPA)	6.4	null	527200	175700
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588466' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1057	ESTE ROAD FIRE STATION 3	6.09	null	527237	175859
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588465' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1056	ESTE ROAD FIRE STATION 2	6.09	null	527240	175829
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587937' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE556	LIVINGSTONE ROAD (STAGE 4) BH11	6.4	null	527240	175710
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589064' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1642	WAYFORD STREET SW11	9.6	1972	527250	175910
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587708' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE362	DUCHESS BRIDGE 1 BATTERSEA	8.99	null	527250	176260
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588464' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1055	ESTE ROAD FIRE STATION BATTERSEA 1	6.09	null	527264	175825
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589065' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1643	WAYFORD STREET SW11	9	1972	527300	175860
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587707' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE361	CLAPHAM JUNCTION SIGNAL BOX A BATTERSEA	16.46	null	527310	175690
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589061' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1639	WAYFORD STREET SW11	11.1	1972	527320	176110
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589063' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1641	WAYFORD STREET SW11	10.3	1972	527330	175940
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Scan not currently available in GeoIndex – try GeoRecords Plus+.</a>	TQ27NE259/A-E	FALCON ROAD EAST BATTERSEA	9.14	null	527350	175820
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587557' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE259/A	FALCON RD. EAST	9	null	527350	175820
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589062' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1640	WAYFORD STREET SW11	9	1972	527400	175960
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587390' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE118/C	LATCHMERE ROAD BATHS	157.58	1901	527610	176250
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588000' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE599	SOUTHERN LOW LEVEL RELIEF SEWER BH15	13.72	null	526720	175900
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587999' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE598	SOUTHERN LOW LEVEL RELIEF SEWER BH14	13.72	null	526720	175850
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587608' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE300	YORK ROAD BATTERSEA	1.75	null	526730	176050
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588660' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1244	YORK ROAD INGRAVE ST & VERNON ST C	15.24	null	526740	175872
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588659' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1243	YORK ROAD INGRAVE ST & VERNON ST B	15.24	null	526800	175938
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588735' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1318	WINSTANLEY ROAD SW11 BH11	12	null	526840	175701
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588658' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1242	YORK ROAD INGRAVE ST & VERNON ST A	26.060000000000002	null	526851	175995
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588734' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1317	WINSTANLEY ROAD SW11 BH10	10	null	526878	175748
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27NE2000	INGRAVE STREET LONDON SW11 3	Confidential	1984	526880	175900
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588780' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1362	KAMBALA ROAD WANDSWORTH BH3	10	null	526900	176070
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588661' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1245	YORK ROAD INGRAVE ST & VERNON ST D	8.84	null	526926	175810
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588662' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1246	YORK ROAD INGRAVE ST & VERNON ST E	30.48	null	526928	175822
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27NE1999	INGRAVE STREET LONDON SW11 2	Confidential	1984	526940	175880
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588785' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1367	KAMBALA ROAD WANDSWORTH BH8	9	null	526940	176030
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588783' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1365	KAMBALA ROAD WANDSWORTH BH6	8	null	526950	176030
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27NE1998	INGRAVE STREET LONDON SW11 1	Confidential	1984	526950	175920
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588781' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1363	KAMBALA ROAD WANDSWORTH BH4	9	null	526980	176090
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588779' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1361	KAMBALA ROAD WANDSWORTH BH2	8	null	526980	175920
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588784' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1366	KAMBALA ROAD WANDSWORTH BH7	8	null	527020	176040
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588663' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1247	YORK ROAD INGRAVE ST & VERNON ST F	15.24	null	527058	175725
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588782' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1364	KAMBALA ROAD WANDSWORTH BH5	17	null	527060	176110
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588786' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1368	KAMBALA ROAD WANDSWORTH BH9	10	null	527070	175980
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588778' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1360	KAMBALA ROAD WANDSWORTH BH1	15	null	527070	175930
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588723' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1306	MAYSOULE RD BATTERSEA BH7	11	null	526719	175491
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588724' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1307	MAYSOULE RD BATTERSEA BH8	16	null	526741	175447
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588733' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1316	WINSTANLEY ROAD SW11 BH9	9	null	526744	175596
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588728' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1311	WINSTANLEY ROAD SW11 BH4	11	null	526749	175510
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587481' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE192	CNR OF MAYSOULE RD CLAPHAM JUNCTION P15	7.01	null	526763	175456
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588467' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1058	CHANNEL TUNNEL LINK 28	40	1974	526770	175300
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588725' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1308	WINSTANLEY ROAD SW11 BH1	9	null	526786	175677
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/16124521' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE883	FALCONBROOK RELIEF SEWER 5	29	1978	526800	174460
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/590229' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE710	FALCONBROOK RELIEF SEWER	29	1978	526800	174460
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/590067' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE548	JOHN ARCHER SCHOOL 3	27	null	526810	174460
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/590066' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE547	JOHN ARCHER SCHOOL 2	35	null	526810	174460
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/590069' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE550	JOHN ARCHER SCHOOL 5	35	null	526810	174460
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/590068' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE549	JOHN ARCHER SCHOOL 4	27	null	526810	174460
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/590065' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE546	JOHN ARCHER SCHOOL 1	27	null	526810	174460
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588726' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1309	WINSTANLEY ROAD SW11 BH2	21	null	526827	175674
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588729' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1312	WINSTANLEY ROAD SW11 BH5	15	null	526835	175579
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588727' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1310	WINSTANLEY ROAD SW11 BH3	9	null	526865	175629
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Scan not currently available in GeoIndex – try GeoRecords Plus+.</a>	TQ27NE1344	NO.1 PLOUGH TERRACE WANDSWORTH TP.A	1	null	526880	175130
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589541' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE50	CNR OF SPENCER RD & N SIDE PUTNEY P12	20.72	null	526900	174880
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587606' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE298	ST JOHNS HILL BATTERSEA	2.9	null	526900	175100
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587483' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE194	CNR OF SANGORA ROAD CLAPHAM JUNCTION P13	19.51	null	526926	175150
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588730' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1313	WINSTANLEY ROAD SW11 BH6	10	null	526940	175621
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587482' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE193	CNR OF PLOUGH ROAD CLAPHAM JUNCTION P14	17.06	1904	526961	175284
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588731' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1314	WINSTANLEY ROAD SW11 BH7	10	null	526964	175591
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588732' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1315	WINSTANLEY ROAD SW11 BH8	4	null	527030	175612
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587940' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE559	LIVINGSTONE ROAD (STAGE 4) BH14	10.67	null	527050	175660
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587941' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE560	LIVINGSTONE ROAD (STAGE 4) BH15	7.92	null	527080	175640
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587665' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE337	CLAPHAM JUNCTION NO.4 CLAPHAM	17.39	null	527080	175330
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589827' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE309	CHANNEL TUNNEL LINK 27	45	1974	527080	174820
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587942' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE561	LIVINGSTONE ROAD (STAGE 4) BH16	12.19	null	527120	175640
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587664' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE336	CLAPHAM JUNCTION NO.3 CLAPHAM	18.21	null	527150	175350
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588666' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1249	WAYLANDS ROAD BATTERSEA BH1	10.36	null	526675	175624
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587997' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE596	SOUTHERN LOW LEVEL RELIEF SEWER BH12	10.06	null	526660	175670
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587352' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE83	L.C.C. HOUSING YORK ROAD BATTERSEA H112	8.61	null	526570	175690
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587350' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE82/B	GARTON HILL & CO BATTERSEA	149.66	1901	526490	175700
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587348' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE81/B	OLANDO JONES & CO STARCK WORKS BATTERSEA	106.68	1894	526370	175700
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587347' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE81/A	OLANDO JONES & CO STARCK WORKS BATTERSEA	106.98	null	526370	175700
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587349' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE82/A	GARTON HILL & CO BATTERSEA	152.4	1896	526390	175730
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588468' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1059	CHANNEL TUNNEL LINK 29	35	1974	526620	175730
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587998' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE597	SOUTHERN LOW LEVEL RELIEF SEWER BH13	9.75	null	526690	175800
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588895' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1473	YK RD BATTERSEA LONDON 4	15	1985	526600	175800
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588894' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1472	YK RD BATTERSEA LONDON 3	15	1985	526600	175800
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588892' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1470	YK RD BATTERSEA LONDON 1	10.5	1985	526600	175800
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588893' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1471	YK RD BATTERSEA LONDON 2	10.5	1985	526600	175800
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587353' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE84	CORNER OF CREEK ROAD H115 BATTERSEA	8.84	null	526650	175856
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588001' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE600	SOUTHERN LOW LEVEL RELIEF SEWER BH16	13.72	null	526670	175900
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587354' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE85	CREEK MILLS BATTERSEA H114	9.14	null	526610	175920
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587338' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE75	FULHAM VESTRY WHARF H100 TOWN HEAD RD SW	9.91	null	526220	175920
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587751' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE393	TOWNMEAD ROAD INCINERATOR NOS1-5	27.43	null	526230	175940
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587750' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE393/B	TOWNMEAD RD. INCINERATOR NO.2	27	null	526230	175940
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/18375953' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE2190	BRIDGES WHARF BATTERSEA CONTAMINATION SAMPLING 10	10	2006	526543	175957
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587355' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE86	BELMONT WORKS H113 BATTERSEA	9.14	null	526540	175960
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/18375955' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE2191	BRIDGES WHARF BATTERSEA CONTAMINATION SAMPLING 11	10	2006	526572	175961
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/18375868' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE2177	BRIDGES WHARF BATTERSEA LONDON SW11 A	40	2003	526530	175962
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/18375947' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE2189	BRIDGES WHARF BATTERSEA CONTAMINATION SAMPLING 9	10	2006	526530	175966
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/18375944' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE2187	BRIDGES WHARF BATTERSEA CONTAMINATION SAMPLING 7	10	2006	526571	175980
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/18375945' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE2188	BRIDGES WHARF BATTERSEA CONTAMINATION SAMPLING 8	10	2006	526512	175983
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/18375941' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE2186	BRIDGES WHARF BATTERSEA CONTAMINATION SAMPLING 6	10	2006	526529	175991
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/18375939' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE2185	BRIDGES WHARF BATTERSEA CONTAMINATION SAMPLING 5	10	2006	526554	176015
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587356' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE87	PRICES CANDLE WORKS BATTERSEA	183.49	1901	526580	176020
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/18375936' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE2184	BRIDGES WHARF BATTERSEA CONTAMINATION SAMPLING 4	10	2006	526580	176023
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588469' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1060	CHANNEL TUNNEL LINK 30	35	1974	526570	176030
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/590228' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE709	FALCONBROOK RELIEF SEWER	28.5	1978	526420	174770
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/16124495' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE882	FALCONBROOK RELIEF SEWER 4	28.5	1978	526420	174770
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589839' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE321	WANDLE VALLEY SEWER 8	23.16	1961	526410	174790
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589540' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE49	CNR OF W TRINITY RD & N.SIDE PUTNEY P11	20.73	null	526400	174800
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589735' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE217	EAST HILL ESTATE WANDSWORTH 7	12.5	null	526420	174860
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/15948159' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE818	EAST HILL ESTATE WANDSWORTH 5	24	1974	526390	174930
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/15948160' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE819	EAST HILL ESTATE WANDSWORTH 11	9	1974	526430	174960
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/15948161' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE820	EAST HILL ESTATE WANDSWORTH 16	9	1974	526480	174970
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/15948158' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE817	EAST HILL ESTATE WANDSWORTH 4	9	1974	526360	174980
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587814' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE456/A	EAST HILL ESTATE WANDSWORTH 6	12.200000000000001	null	526410	175000
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588691' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1274	EAST HILL ESTATE WANDSWORTH BH21	9	null	526536	175001
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588682' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1265	EAST HILL ESTATE WANDSWORTH BH10	9	null	526401	175010
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588754' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1337	WANDSWORTH BRIDGE STHN APPROACH BH23	13	null	526320	175024
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587815' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE456	EAST HILL ESTATE WANDSWORTH BH5	21	null	526360	175030
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587994' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE593	SOUTHERN LOW LEVEL RELIEF SEWER BH9	18.29	null	526250	175030
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588753' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1336	WANDSWORTH BRIDGE STHN APPROACH BH22	9	null	526288	175036
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587703' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE357	L.C.C. SEWER SCHEME WANDSWORTH	5.79	null	526220	175040
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588677' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1260	EAST HILL ESTATE WANDSWORTH BH3	15	null	526329	175041
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588696' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1279	EAST HILL ESTATE WANDSWORTH BH26	24	null	526622	175042
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588686' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1269	EAST HILL ESTATE WANDSWORTH BH15	24	null	526407	175045
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588697' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1280	EAST HILL ESTATE WANDSWORTH BH27	11	null	526444	175045
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588752' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1335	WANDSWORTH BRIDGE STHN APPROACH BH21	7	null	526266	175054
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588681' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1264	EAST HILL ESTATE WANDSWORTH BH9	9	null	526375	175073
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588751' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1334	WANDSWORTH BRIDGE STHN APPROACH BH20	6	null	526288	175078
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588690' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1273	EAST HILL ESTATE WANDSWORTH BH20	10	null	526499	175078
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588695' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1278	EAST HILL ESTATE WANDSWORTH BH25	9	null	526620	175094
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588685' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1268	EAST HILL ESTATE WANDSWORTH BH14	9	null	526440	175098
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588676' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1259	EAST HILL ESTATE WANDSWORTH BH2	10	null	526295	175098
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587813' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE455	EAST HILL ESTATE WANDSWORTH BH4	12	null	526370	175100
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588750' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1333	WANDSWORTH BRIDGE STHN APPROACH BH19	7	null	526273	175102
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588694' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1277	EAST HILL ESTATE WANDSWORTH BH24	9	null	526586	175105
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588749' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1332	WANDSWORTH BRIDGE STHN APPROACH BH18A	12	null	526256	175117
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587812' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE454	EAST HILL ESTATE WANDSWORTH BH3	15	null	526320	175120
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588689' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1272	EAST HILL ESTATE WANDSWORTH BH19	9	null	526478	175120
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588680' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1263	EAST HILL ESTATE WANDSWORTH BH8	9	null	526350	175121
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588700' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1283	EAST HILL ESTATE WANDSWORTH BH30	3	null	526603	175126
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588748' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1331	WANDSWORTH BRIDGE STHN APPROACH BH18	3	null	526254	175134
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588684' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1267	EAST HILL ESTATE WANDSWORTH BH13	9	null	526409	175145
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588747' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1330	WANDSWORTH BRIDGE STHN APPROACH BH17	3	null	526221	175149
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588675' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1258	EAST HILL ESTATE WANDSWORTH BH1	24	null	526260	175150
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588679' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1262	EAST HILL ESTATE WANDSWORTH BH7	15	null	526319	175156
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588699' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1282	EAST HILL ESTATE WANDSWORTH BH29	3	null	526584	175160
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588688' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1271	EAST HILL ESTATE WANDSWORTH BH18	10	null	526459	175162
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587810' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE452	EAST HILL ESTATE WANDSWORTH BH1	12	null	526290	175170
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588745' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1328	WANDSWORTH BRIDGE STHN APPROACH BH15	19	null	526237	175178
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587811' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE453	EAST HILL ESTATE WANDSWORTH BH2	12	null	526340	175180
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588683' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1266	EAST HILL ESTATE WANDSWORTH BH12	24	null	526361	175184
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588678' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1261	EAST HILL ESTATE WANDSWORTH BH6	15	null	526293	175188
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588693' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1276	EAST HILL ESTATE WANDSWORTH BH23	9	null	526566	175196
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588698' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1281	EAST HILL ESTATE WANDSWORTH BH28	9	null	526534	175203
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588744' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1327	WANDSWORTH BRIDGE STHN APPROACH BH14A	25	null	526214	175203
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588687' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1270	EAST HILL ESTATE WANDSWORTH BH17	11	null	526436	175208
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27NE2169	NANTES CLOSE BATTERSEA TP7	Confidential	1997	526470	175240
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27NE2163	NANTES CLOSE BATTERSEA TP1	Confidential	1997	526500	175240
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27NE2167	NANTES CLOSE BATTERSEA TP5	Confidential	1997	526500	175250
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27NE2168	NANTES CLOSE BATTERSEA TP6	Confidential	1997	526510	175250
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27NE2166	NANTES CLOSE BATTERSEA TP4	Confidential	1997	526540	175260
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587995' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE594	SOUTHERN LOW LEVEL RELIEF SEWER BH10	14.94	null	526580	175260
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27NE2164	NANTES CLOSE BATTERSEA TP2	Confidential	1997	526500	175260
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588692' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1275	EAST HILL ESTATE WANDSWORTH BH22	24	null	526513	175266
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588741' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1324	WANDSWORTH BRIDGE STHN APPROACH BH12	9	null	526216	175274
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27NE2165	NANTES CLOSE BATTERSEA TP3	Confidential	1997	526530	175280
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588718' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1301	MAYSOULE RD BATTERSEA BH2	7	null	526550	175325
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588740' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1323	WANDSWORTH BRIDGE STHN APPROACH BH11	6	null	526242	175342
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588720' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1303	MAYSOULE RD BATTERSEA BH4	16	null	526601	175360
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588717' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1300	MAYSOULE RD BATTERSEA BH1	10	null	526526	175364
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587996' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE595	SOUTHERN LOW LEVEL RELIEF SEWER BH11	10.36	null	526630	175390
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Scan not currently available in GeoIndex – try GeoRecords Plus+.</a>	TQ27NE260/A-B	HIBBERT ST AREA L.C.C. BATTERSEA	20	null	526520	175390
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587617' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE308	YORK ROAD BATTERSEA	9.22	null	526200	175400
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588722' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1305	MAYSOULE RD BATTERSEA BH6	12	null	526673	175401
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588719' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1302	MAYSOULE RD BATTERSEA BH3	10	null	526588	175406
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588721' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1304	MAYSOULE RD BATTERSEA BH5	11	null	526670	175458
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588672' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1255	WAYLANDS ROAD BATTERSEA BH7	9.91	null	526647	175467
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587603' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE295	YORK ROAD BATTERSEA	4.11	null	526400	175500
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588428' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1023	HIBBERT STREET BHS 1-6	9.14	1946	526500	175500
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589150' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1728	YORK ROAD, WANDSWORTH	8.9	1997	526300	175500
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588671' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1254	WAYLANDS ROAD BATTERSEA BH6	15.24	null	526674	175505
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/15613717' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1851	JOSEPH TRITTON PRIMARY SCHOOL BATTERSEA B	6.09	1964	526540	175510
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588673' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1256	WAYLANDS ROAD BATTERSEA BH8	4.57	null	526674	175526
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588674' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1257	WAYLANDS ROAD BATTERSEA BH9	4.57	null	526676	175537
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588669' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1252	WAYLANDS ROAD BATTERSEA BH4	13.72	null	526618	175548
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588670' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1253	WAYLANDS ROAD BATTERSEA BH5	12.19	null	526696	175549
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587951' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE570	J WATNEY CO DISTILLERY	137.77	1894	526260	175560
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/15613691' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1850	JOSEPH TRITTON PRIMARY SCHOOL BATTERSEA A	6.09	1964	526560	175560
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588668' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1251	WAYLANDS ROAD BATTERSEA BH3	10.06	null	526669	175579
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588667' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1250	WAYLANDS ROAD BATTERSEA BH2	13.41	null	526611	175591
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589184' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1762	YORK ROAD, WANDSWORTH	9.14	1934	526200	175600
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589189' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1767	YORK ROAD, WANDSWORTH	9.14	1934	526200	175600
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589190' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1768	YORK ROAD, WANDSWORTH	9.14	1934	526200	175600
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589191' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1769	YORK ROAD, WANDSWORTH	9.14	1934	526200	175600
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589187' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1765	YORK ROAD, WANDSWORTH	9.14	1934	526200	175600
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589192' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1770	YORK ROAD, WANDSWORTH	9.14	1934	526200	175600
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589186' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1764	YORK ROAD, WANDSWORTH	9.14	1934	526200	175600
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/18375880' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE2180	BRIDGES WHARF BATTERSEA LONDON SW11 1	3.1	2003	526550	176030
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/18375934' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE2183	BRIDGES WHARF BATTERSEA CONTAMINATION SAMPLING 3	10	2006	526534	176032
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/18375875' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE2179	BRIDGES WHARF BATTERSEA LONDON SW11 C	30	2003	526591	176033
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/18375932' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE2182	BRIDGES WHARF BATTERSEA CONTAMINATION SAMPLING 2	10	2006	526586	176040
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/18375915' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE2181	BRIDGES WHARF BATTERSEA CONTAMINATION SAMPLING 1	10	2006	526563	176046
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/18375873' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE2178	BRIDGES WHARF BATTERSEA LONDON SW11 B	40	2003	526544	176054
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587342' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE79	MCFARLANE LANG & CO FULHAM	152.4	1902	526140	176070
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588095' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE694	TOWNMEAD LINK RD BH8	20	null	526090	176080
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587531' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE236	TOWN MEAD ROAD FULHAM	4.57	null	526100	176100
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587740' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE386/A	TOWNMEAD RD. INCINERATOR 1	27	null	526300	176100
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587517' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE224	FULHAM ELECTRICITY POWER STATION	11	1932	526300	176100
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587741' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE386	TOWNMEAD ROAD INCINERATION BH1-2	27.43	null	526300	176100
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588475' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1066	CHANNEL TUNNEL LINK M1	20	null	526490	176110
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587909' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE530	GROVEWORKS	8.53	1908	526630	176130
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588096' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE695	TOWNMEAD LINK RD BH9	10	null	526120	176190
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587532' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE237	FULHAM GENERATING ST TOWNMEAD RD FULHAM	10.06	null	526200	176200
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Scan not currently available in GeoIndex – try GeoRecords Plus+.</a>	TQ27NE1115/A-B	FULHAM POWER STATION BH1-2	15.24	null	526200	176200
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587533' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE238	FULHAM GENERATING ST TOWNMEAD RD FULHAM	8	null	526200	176200
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588476' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1067	CHANNEL TUNNEL LINK M2	25	1974	526440	176210
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587357' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE88	LOMBARD STREET BATTERSEA ELECTRICITY WORKS	137.16	1902	526710	176220
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588053' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE652	WANDSWORTH GAS WORKS BH18	18	null	525980	175160
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27NE1940	A217 YORK ROAD DIVERSION WANDSWORTH R10	Confidential	1980	525980	175260
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588050' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE649	WANDSWORTH GAS WORKS BH15	18	null	525980	175210
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27NE1939	A217 YORK ROAD DIVERSION WANDSWORTH R9	Confidential	1980	526000	175220
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Scan not currently available in GeoIndex – try GeoRecords Plus+.</a>	TQ27NE304	L.C.C. TRAMWAYS WANDSWORTH	9.14	null	526000	175300
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587612' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE304/A	L.C.C.TRAMWAYS JEWS ROW CARSHE	9	null	526000	175300
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588736' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1319	WANDSWORTH BRIDGE STHN APPROACH BH4	16	null	526001	175124
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27NE1937	A217 YORK ROAD DIVERSION WANDSWORTH R7	Confidential	1980	526010	175190
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589539' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE48	CNR OF TONSLY HILL & EASTHILL PUTNEY P10	17.37	null	526040	174710
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588888' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1466	WANDSWORTH GAS WORKS 4	25	null	526044	175194
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588494' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1083	WANDEL VALLEY SEWER 14	14.33	null	526050	175280
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27NE1938	A217 YORK ROAD DIVERSION WANDSWORTH R8	Confidential	1980	526050	175230
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588051' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE650	WANDSWORTH GAS WORKS BH16	18	null	526050	175250
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588049' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE648	WANDSWORTH GAS WORKS BH14	18	null	526060	175310
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588889' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1467	WANDSWORTH GAS WORKS 5	20	null	526080	175187
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587480' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE191	CORNER OF YORK RD WANDSWORTH P4	5.03	null	526090	175240
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588739' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1322	WANDSWORTH BRIDGE STHN APPROACH BH10	7	null	526100	175285
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588493' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1082	WANDEL VALLEY SEWER 13	8.23	null	526100	175220
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/16124491' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1984	FALCONBROOK RELIEF SEWER 2	14.5	1978	526110	175180
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588742' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1325	WANDSWORTH BRIDGE STHN APPROACH BH13	6	null	526118	175228
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587700' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE355	L.C.C. SEWER SCHEME WANDSWORTH	11.13	null	526120	175190
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588492' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1081	WANDEL VALLEY SEWER BH12,12A	7.62	null	526120	175180
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589058' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1636	FALCONBROOK RELIEF SEWER	14.5	1978	526120	175180
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587698' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE353	L.C.C. SEWER SCHEME WANDSWORTH	10.21	null	526150	175130
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587699' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE354	L.C.C. SEWER SCHEME WANDSWORTH	9.450000000000001	null	526170	175100
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588491' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1080	WANDEL VALLEY SEWER 10	23.01	null	526180	175090
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587701' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE356	L.C.C. SEWER SCHEME WANDSWORTH	10.82	null	526190	175070
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588743' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1326	WANDSWORTH BRIDGE STHN APPROACH BH14	12	null	526194	175197
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588746' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1329	WANDSWORTH BRIDGE STHN APPROACH BH16	25	null	526197	175161
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/16124493' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1985	FALCONBROOK RELIEF SEWER 3	15.5	1978	526200	175100
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589059' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1637	FALCONBROOK RELIEF SEWER	15.5	1978	526210	175100
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588102' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE701	TOWNMEAD LINK RD BH5	10.05	null	525960	175820
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587332' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE69	WANDSWORTH BRIDGE SW H94 FULHAM	2.9	1872	525960	175570
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587333' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE70	WANDSWORTH BRIDGE SW H95 FULHAM	1.98	1872	525960	175610
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587330' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE67	WANDSWORTH BRIDGE SW H92 BATTERSEA	1.3	null	525970	175540
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587331' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE68	WANDSWORTH BRIDGE SW H93 FULHAM	2.29	null	525980	175580
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587328' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE65	WANDSWORTH BRIDGE SW H90 BATTERSEA	3.89	null	525990	175510
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587329' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE66	WANDSWORTH BRIDGE SW H91 BATTERSEA	2.44	null	526000	175560
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587415' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE136	SOUTHERN APPROACH NOS1-7 WANDSWORTH	9.14	null	526000	175400
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587344' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE80/B	KOPS BREWERY FULHAM	121.92	1896	526010	175750
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587343' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE80/A	KOPS BREWERY FULHAM	121.92	1896	526010	175750
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587325' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE62	WANDSWORTH BRIDGE SW H87 BATTERSEA	6.86	null	526020	175490
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587327' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE64	WANDSWORTH BRIDGE SW H89 BATTERSEA	4.11	null	526020	175530
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587345' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE80/C	KOPS BREWERY FULHAM	152.4	1920	526030	175860
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589179' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1757	FULHAM WHARF, FULHAM	152.4	1921	526030	175850
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588737' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1320	WANDSWORTH BRIDGE STHN APPROACH BH8	3	null	526032	175400
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588094' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE693	TOWNMEAD LINK RD BH7	10	null	526040	175960
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588046' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE645	WANDSWORTH GAS WORKS BH11	18	null	526040	175380
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588093' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE692	TOWNMEAD LINK RD BH6	15	null	526040	175860
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588103' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE702	TOWNMEAD LINK RD BH12	20	1970	526050	175420
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587335' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE72	FULHAM VESTRY WHARF H97 TOWN HEAD RD S.W	1.37	null	526070	175910
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27NE2331	THAMES TIDEWAY TUNNEL SR001	Confidential	2008	526087	175773
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587340' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE77	FULHAM VESTRY WHARF H102 TOWN HEAD RD SW	1.9100000000000001	null	526110	176000
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587336' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE73	FULHAM VESTRY WHARF H98 TOWN HEAD RD S.W	4.72	null	526110	175870
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588738' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1321	WANDSWORTH BRIDGE STHN APPROACH BH9	9	null	526150	175334
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587337' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE74	FULHAM VESTRY WHARF H99 TOWN HEAD RD S.W	6.25	null	526150	175840
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587339' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE76	FULHAM VESTRY WHARF H101 TOWN HEAD RD SW	5.18	null	526150	175960
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587901' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE524	POWER STATION FULHAM	182.88	1934	526170	175880
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589180' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1758	FULHAM POWER STATION	152.55	1934	526200	175920
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589193' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1771	YORK ROAD, WANDSWORTH	9.14	1934	526200	175600
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589188' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1766	YORK ROAD, WANDSWORTH	9.14	1934	526200	175600
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589185' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE1763	YORK ROAD, WANDSWORTH	9.14	1934	526200	175600
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589570' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE79	LCC TRINITY ROAD SITE WANDSWORTH	12.19	null	526900	174200
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589775' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE257	SPENCER PARKSCHOOL WANDSWORTH BHS.A-E-E1	3	null	526950	174400
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/16124523' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE884	FALCONBROOK RELIEF SEWER 6	28.5	1978	527040	174200
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/590230' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE711	FALCONBROOK RELIEF SEWER	28.5	1978	527050	174210
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589826' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE308	CHANNEL TUNNEL LINK 26	45	1974	527190	174440
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/590231' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE712	FALCONBROOK RELIEF SEWER	29.5	1978	527220	174030
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/16124525' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE885	FALCONBROOK RELIEF SEWER 7	29.5	1978	527220	173980
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/16124529' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE886	FALCONBROOK RELIEF SEWER 8	29.2	1978	527350	173820
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/590232' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE713	FALCONBROOK RELIEF SEWER	29.2	1978	527380	173830
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589825' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE307	CHANNEL TUNNEL LINK 25	45.15	1974	527440	173980
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27SE625	400KV CABLE TUNNEL 108	Confidential	1989	527490	173480
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27SE624	400KV CABLE TUNNEL 107	Confidential	1989	527500	173580
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589572' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE81	B.R.S.R. WANDSWORTH COMMON WANDSWORTH 2	6.25	1952	527610	173620
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27SE623	400KV CABLE TUNNEL 106	Confidential	1989	527640	173660
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/16124533' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE887	FALCONBROOK RELIEF SEWER 9	27	1978	527660	173450
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/590233' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE714	FALCONBROOK RELIEF SEWER	27	1978	527680	173480
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/590053' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE534	CEGB TUNNEL 104 (NIGHTINGALE LANE)	52	1990	527690	173750
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27SE621	400KV CABLE TUNNEL 104	Confidential	1989	527700	173760
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27SE622	400KV CABLE TUNNEL 105	Confidential	1989	527700	173660
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27SE620	400KV CABLE TUNNEL 103	Confidential	1989	527730	173860
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589641' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE130	CHAD STURGEONS HOUSE BALHAM	152.4	null	527730	173760
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589837' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE319	WANDLE VALLEY SEWER BH4	10.21	1961	526230	173520
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/15948412' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE829	SWAFFIELD ROAD TP9	1.82	1972	526110	173560
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589573' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE82	B.R.S.R. EARLSFIELD WANDSWORTH 1	6	1952	526360	173560
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/15948402' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE825	SWAFFIELD ROAD TP5	1.37	1972	526030	173620
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/15948403' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE826	SWAFFIELD ROAD TP6	1.37	1972	526070	173640
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/15948400' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE824	SWAFFIELD ROAD TP4	1.52	1972	526010	173670
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/15948410' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE828	SWAFFIELD ROAD TP8	1.21	1972	526140	173670
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/15948406' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE827	SWAFFIELD ROAD TP7	1.21	1972	526050	173680
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589900' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE381	SWAFFIELD ROAD BH1-10	Unknown	null	526100	173700
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/15948397' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE822	SWAFFIELD ROAD TP2	1.37	1972	526070	173710
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/15948399' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE823	SWAFFIELD ROAD TP3	1.37	1972	525990	173720
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589574' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE83	LCC P18 WANDSWORTH	7.72	1904	526346	173751
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/15948393' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE821	SWAFFIELD ROAD TP1	1.37	1972	526120	173760
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589894' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE375	SWAFFIELD ROAD X	4.87	null	525990	173780
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589895' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE376	SWAFFIELD ROAD Y	6.58	null	526010	173800
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589601' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE94/A	SHEFFIELD ROAD WANDSWORTH	4.57	null	526050	173860
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589527' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE39	SURREY COUNTY PRISON WANDSWORTH COMMON	147.37	1849	526740	173860
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589602' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE94/B	SHEFFIELD ROAD WANDSWORTH	4.57	null	526050	173860
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589635' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE125	L.C.C. WANDLE VALLEY SEWER WANDSWORTH	5.49	null	526270	174020
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589838' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE320	WANDLE VALLEY SEWER BH6	18.14	1961	526320	174220
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589526' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE38	CNR OF WEST TRINITY RD & WINDMILL RD P17	8.84	null	526720	174360
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/18454887' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE943	GARRATT LANE WANDSWORTH 1	15	1999	525740	174130
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589779' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE261	R WANDLE IMPROVEMENT BH4	5.79	null	525780	174180
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589770' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE252	WANDLE SEWER BH5	5.5600000000000005	null	525760	174290
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27SE942	SAINSBURYS STORE WANDSWORTH 5	Confidential	2004	525800	174340
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27SE941	SAINSBURYS STORE WANDSWORTH 4	Confidential	2004	525840	174360
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/590118' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE599	KING GEORGES PARK WANDSWORTH	153	1995	525500	174360
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589866' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE347	WANDSWORTH STADIUM BH3	16.76	1964	525640	174370
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589771' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE253	WANDLE SEWER BH6	5.79	null	525690	174420
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27SE940	SAINSBURYS STORE WANDSWORTH 3	Confidential	2004	525780	174440
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589778' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE260	R WANDLE IMPROVEMENT BH3	7.32	null	525610	174450
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27SE938	SAINSBURYS STORE WANDSWORTH 1	Confidential	2004	525690	174460
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27SE939	SAINSBURYS STORE WANDSWORTH 2	Confidential	2004	525760	174480
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589864' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE345	WANDSWORTH STADIUM BH1	26.21	1964	525520	174490
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589767' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE249	L.C.C.LOW LEVEL RELIEF SEWER BH6	8.53	null	525640	174530
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589766' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE248	L.C.C.LOW LEVEL RELIEF SEWER BH5	8.53	null	525470	174530
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589772' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE254	WANDLE SEWER BH7	5.79	null	525680	174540
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589642' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE131	WANDSWORTH TECH COLLEGE EXTENSION	24	null	525750	174560
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589865' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE346	WANDSWORTH STADIUM BH2	15.84	1964	525640	174570
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589915' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE396	ARNDALE CENTRE WANDSWORTH BH2	24.38	null	525640	174610
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589537' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE46	WANDSWORTH & BATTERSEA RELIEF SEWER P8	31.85	1904	525560	174620
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589916' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE397	ARNDALE CENTRE WANDSWORTH BH3	18.29	null	525550	174620
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589914' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE395	ARNDALE CENTRE WANDSWORTH BH1	30.48	null	525650	174620
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589917' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE398	ARNDALE CENTRE WANDSWORTH BH4	18.29	null	525620	174630
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589538' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE47	CNR OF ST ANNS HILL & HIGH ST PUTNEY P9	9.75	null	525890	174660
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589545' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE54	WANDSWORTH BATHS HIGH STREET WANDSWORTH	137.46	1901	525500	174670
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589777' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE259	R WANDLE IMPROVEMENT BH2A	6.86	null	525580	174690
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/590254' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE735	RAM BREWERY, HIGH STREET, WANDSWORTH	182.88	1906	525600	174700
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589768' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE250	L.C.C.LOW LEVEL RELIEF SEWER BH7	8.53	null	525700	174710
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/590215' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE696	WANDSWORTH BREWERY	101.8	null	525670	174740
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589769' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE251	L.C.C.LOW LEVEL RELIEF SEWER BH8	9.75	null	525830	174810
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589776' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE258	R WANDLE IMPROVEMENT BH1	7.01	null	525570	174820
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/590194' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE675	BRENDON VALLEY EARLSFIELD	137.34	1926	525670	173490
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/590192' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE673	MERTON RD WANDSWORTH	152.4	1929	525330	173540
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/590213' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE694	53 LYDDEN GROVE EARLSFIELD	167.64000000000001	1936	525700	173660
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Scan not currently available in GeoIndex – try GeoRecords Plus+.</a>	TQ27SE96/A-I	LCC CAMBORNE ROAD WANDSWORTH	6.09	null	525240	173770
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589634' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE124	GARRATT LANE WANDSWORTH TRIAL BORING 1-2	9.14	null	525860	173860
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589880' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE361	AVENING ROAD WANDSWORTH BH5	8	null	525400	173900
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589967' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE448	MORRIS GARDENS EST BH2	9	null	525110	173930
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589780' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE262	R WANDLE IMPROVEMENT BH5	6.71	null	525740	173940
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589879' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE360	AVENING ROAD WANDSWORTH BH4	7.62	null	525350	173940
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589878' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE359	AVENING ROAD WANDSWORTH BH3	15.24	null	525390	173950
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589877' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE358	AVENING ROAD WANDSWORTH BH2	6.4	null	525320	173970
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/590016' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE497	GARRATT LANE WANDSWORTH BH5	12.19	null	525720	173980
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589876' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE357	AVENING ROAD WANDSWORTH BH1	10.67	null	525370	173990
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/590015' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE496	GARRATT LANE WANDSWORTH BH4	9.14	null	525670	174030
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/590014' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE495	GARRATT LANE WANDSWORTH BH2	10.66	null	525720	174050
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/590013' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE494	GARRATT LANE WANDSWORTH BH1	15.24	null	525750	174060
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589580' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE88	VERMONT STREET WANDSWORTH	12.19	null	525900	174100
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/590193' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE674	FRAME FOOD CO WANDSWORTH	167.94	1904	525070	173470
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589301' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SW35	WANDSWORTH S B SCHOOL SW18 BH1	9.14	null	524580	173520
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589302' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SW36	WANDSWORTH S B SCHOOL SW18 BH2	9.14	null	524560	173530
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/15624052' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SW230	ORCHARD ESTATE HA1	3	1975	524140	173690
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/15624055' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SW232	ORCHARD ESTATE 2	15.5	1975	524090	173690
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/15624058' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SW234	ORCHARD ESTATE 4	20	1975	524130	173710
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/15624054' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SW231	ORCHARD ESTATE 1	25	1975	524080	173720
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/15624056' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SW233	ORCHARD ESTATE 3	15	1975	524100	173720
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/18417281' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SW245	ANDREW REED HOUSE BEAUMONT ROAD 1	8	1988	524080	173780
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/18417282' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SW246	ANDREW REED HOUSE BEAUMONT ROAD 2	6.6000000000000005	1988	524070	173800
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/18417284' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SW248	ANDREW REED HOUSE BEAUMONT ROAD 4	10.5	1988	524100	173810
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/18417283' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SW247	ANDREW REED HOUSE BEAUMONT ROAD 3	10	1988	524070	173810
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589402' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SW132	ROAD IMPROVEMENTS AT TIBBETS CORNER BH4	3.0500000000000003	null	523930	173910
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589966' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE447	MORRIS GARDENS EST BH1	15	null	525040	173940
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589401' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SW131	ROAD IMPROVEMENTS AT TIBBETS CORNER BH3	9.14	null	523930	173960
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589399' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SW129	ROAD IMPROVEMENTS AT TIBBETS CORNER BH1	9.14	null	524000	173960
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589968' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SE449	MORRIS GARDENS EST BH3	9	null	525090	173980
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589400' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SW130	ROAD IMPROVEMENTS AT TIBBETS CORNER BH2	9.14	null	523970	174000
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Scan not currently available in GeoIndex – try GeoRecords Plus+.</a>	TQ27SW68	WEST HILL/LANE END BH1-2	9	null	524000	174040
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Scan not currently available in GeoIndex – try GeoRecords Plus+.</a>	TQ27SW68/A-B	WEST HILL/LANE END BH1-2	15	null	524000	174040
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589260' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SW1	ROYAL HOSPITAL FOR INCURABLES P/HEATH	61.26	null	524230	174050
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589477' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SW207	HOSPITAL, WEST HILL, WANDSWORTH	61.26	null	524140	174050
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Scan not currently available in GeoIndex – try GeoRecords Plus+.</a>	TQ27SW299	LU D164 CTS1 D164D01W	8	null	524533	174061
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Scan not currently available in GeoIndex – try GeoRecords Plus+.</a>	TQ27SW300	LU D164 CTS1 D164D02W	4.6000000000000005	null	524537	174064
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Scan not currently available in GeoIndex – try GeoRecords Plus+.</a>	TQ27SW302	LU D164 CTS1 D164D04W	4.8500000000000005	null	524530	174083
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Scan not currently available in GeoIndex – try GeoRecords Plus+.</a>	TQ27SW301	LU D164 CTS1 D164D03W	7.5	null	524523	174085
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Scan not currently available in GeoIndex – try GeoRecords Plus+.</a>	TQ27SW304	LU D164 CTS1 D164D05O	0.65	null	524529	174086
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Scan not currently available in GeoIndex – try GeoRecords Plus+.</a>	TQ27SW303	LU D164 CTS1 D164D06W	7.92	null	524517	174098
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Scan not currently available in GeoIndex – try GeoRecords Plus+.</a>	TQ27SW305	LU D164 CTS1 D164D07O	1.3	null	524515	174105
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589428' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SW158	ROAD IMPROVEMENTS AT TIBBETS CORNER BH32	3.0500000000000003	null	523640	173920
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589407' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SW137	ROAD IMPROVEMENTS AT TIBBETS CORNER BH9	18.29	null	523650	173670
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589406' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SW136	ROAD IMPROVEMENTS AT TIBBETS CORNER BH8	9.14	null	523660	173690
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589345' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SW75	PARK LODGE BH1	6.09	1965	523700	173590
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589405' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SW135	ROAD IMPROVEMENTS AT TIBBETS CORNER BH7	3.0500000000000003	null	523710	173780
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589404' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SW134	ROAD IMPROVEMENTS AT TIBBETS CORNER BH6	3.0500000000000003	null	523770	173770
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589403' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SW133	ROAD IMPROVEMENTS AT TIBBETS CORNER BH5	9.14	null	523830	173820
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/15619893' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SW229	KERSFIELD ROAD PUTNEY E	9.14	1962	524010	174170
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/18478320' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SW252	WICKHAM HOUSE PUTNEY SW15 3	7	1989	523830	174200
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/15619885' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SW225	KERSFIELD ROAD PUTNEY A	12.19	1962	523920	174210
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/15619891' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SW228	KERSFIELD ROAD PUTNEY D	9.14	1962	523990	174210
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/18478317' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SW250	WICKHAM HOUSE PUTNEY SW15 1	20	1989	523830	174210
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/18478318' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SW251	WICKHAM HOUSE PUTNEY SW15 2	25	1989	523810	174220
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/15619890' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SW227	KERSFIELD ROAD PUTNEY C	8.83	1962	523970	174230
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/15619888' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SW226	KERSFIELD ROAD PUTNEY B	9.14	1962	523930	174250
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589379' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SW109	LYTTON GROVE WANDSWORTH TH.A-N	3.0500000000000003	null	524000	174450
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Scan not currently available in GeoIndex – try GeoRecords Plus+.</a>	TQ27SW18	WEST HILL WANDSWORTH	Unknown	null	524700	174540
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/589279' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SW18/A	WEST HILL WANDSWORTH	6	null	524700	174540
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/18448144' class= 'bodyLink' target='_blank'>Scan</a>	TQ27SW249	CARLTON DRIVE LONDON SW15 1	13	1986	524020	174620
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Scan not currently available in GeoIndex – try GeoRecords Plus+.</a>	TQ27SW27	TRIAL BORINGS 1,2,3,4,5, WANDS	19	null	523810	174680
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Scan not currently available in GeoIndex – try GeoRecords Plus+.</a>	TQ27SW27/A-E	TRIAL BORINGS 1,2,3,4,5, WANDSWORTH	Unknown	null	523810	174680
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27SW293	EAST PUTNEY III TP D163T017	Confidential	1996	524340	174750
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27SW292	EAST PUTNEY III TP D163T016	Confidential	1996	524350	174780
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27SW291	EAST PUTNEY III TP D163T015	Confidential	1996	524350	174780
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27SW290	EAST PUTNEY III TP D163T014	Confidential	1996	524360	174800
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Scan not currently available in GeoIndex – try GeoRecords Plus+.</a>	TQ27SW65/A-B	73 UPPER RICHMOND RD 1-2	6.7	null	524460	174820
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27SW288	EAST PUTNEY III TP D163T012	Confidential	1996	524370	174820
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27SW289	EAST PUTNEY III TP D163T013	Confidential	1996	524370	174830
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27SW287	EAST PUTNEY III TP D163T011	Confidential	1996	524370	174840
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27SW286	EAST PUTNEY III TP D163T010	Confidential	1996	524370	174840
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27SW294	EAST PUTNEY III TP D163C003	Confidential	1996	524360	174850
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587069' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NW474	WENDOLEN AVE PUTNEY 3	15	1974	523660	175000
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ27NW350	UPPER RICHMOND RD PUTNEY HILL 1-4	Confidential	1973	523900	175000
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Scan not currently available in GeoIndex – try GeoRecords Plus+.</a>	TQ27NW144	L.C.C.TRAMWAYS HAMMERSMITH	6	null	524200	175000
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587068' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NW473	WENDOLEN AVE PUTNEY 2	15	1974	523700	175040
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587067' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NW472	WENDOLEN AVE PUTNEY 1	20	1974	523670	175040
