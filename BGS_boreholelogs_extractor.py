@@ -113,5 +113,7 @@ print('Total number of logs in area:', len(data)-1)
 print('Number of logs that needs to be purchased: %d ' % (int((len(data)-len(data1)))))
 print('Percentage images not downloaded due to 403 error: ', round(100*count_error/count1, 1), '%')
 
+k = input("press close to exit")
+
     
 
