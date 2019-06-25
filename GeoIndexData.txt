@@ -1,6 +1,14 @@
-﻿Record	REFERENCE	NAME	LENGTH	YEAR_KNOWN	EASTING	NORTHING
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587412' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE134/B	HURLINGHAM HOUSING ESTATE	10	null	525230	176020
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/586603' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NW24	BISHOPS PALACE COURT YARD FULHAM	96.32000000000001	1823	524010	176130
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/588101' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE700	TOWNMEAD LINK RD BH4	20.1	null	525930	175770
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/587525' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE231	STABLE WELL HUGON ROAD FULHAM	7.32	null	525700	175800
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/20364708' class= 'bodyLink' target='_blank'>Scan</a>	TQ27NE2362	PARSONS GREEN SPORTS AND SOCIAL CLUB BROOMHOUSE LANE	110	2018	525310	175836
+Record	REFERENCE	NAME	LENGTH	YEAR_KNOWN	EASTING	NORTHING
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/702788' class= 'bodyLink' target='_blank'>Scan</a>	TQ63SE96	TICEHURST RESERVOIR U2	19.81	null	568280	133720
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/702780' class= 'bodyLink' target='_blank'>Scan</a>	TQ63SE88	TICEHURST RESERVOIR BH2 (1961-2)	15.24	null	568310	133730
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/702777' class= 'bodyLink' target='_blank'>Scan</a>	TQ63SE85	BEWL BRIDGE RESERVOIR 85	16.26	null	568290	133770
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/702795' class= 'bodyLink' target='_blank'>Scan</a>	TQ63SE103	TICEHURST RESERVOIR 13	15.24	null	567800	133790
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/702778' class= 'bodyLink' target='_blank'>Scan</a>	TQ63SE86	BEWL BRIDGE RESERVOIR 86	16	null	568350	133790
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/702751' class= 'bodyLink' target='_blank'>Scan</a>	TQ63SE59	BEWL BRIDGE RESERVOIR 60B	10	null	567810	133830
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/702792' class= 'bodyLink' target='_blank'>Scan</a>	TQ63SE100	TICEHURST RESERVOIR 10B	13.71	null	568010	133830
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/702791' class= 'bodyLink' target='_blank'>Scan</a>	TQ63SE99	TICEHURST RESERVOIR 10A	16.15	null	567990	133850
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/702753' class= 'bodyLink' target='_blank'>Scan</a>	TQ63SE61	BEWL BRIDGE RESERVOIR 60D	17	null	567830	133860
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/702750' class= 'bodyLink' target='_blank'>Scan</a>	TQ63SE58	BEWL BRIDGE RESERVOIR 60A	11	null	567840	133870
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/702793' class= 'bodyLink' target='_blank'>Scan</a>	TQ63SE101	TICEHURST RESERVOIR 11	42.67	null	567950	133880
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/702749' class= 'bodyLink' target='_blank'>Scan</a>	TQ63SE57	BEWL BRIDGE RESERVOIR 60	7	null	567850	133880
+

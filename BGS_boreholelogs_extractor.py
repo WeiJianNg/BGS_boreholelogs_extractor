@@ -5,6 +5,8 @@ import re
 import urllib.request
 import xlsxwriter
 import os
+import docx
+import docx.shared
 
 def check_dir(file_name):
     directory = os.path.dirname(file_name)
@@ -70,13 +72,20 @@ def download_image(url, file_path, file_name):
     full_path = file_path + file_name + '.png'
     urllib.request.urlretrieve(url, full_path)
 
+# writing word document 
+document = docx.Document()
+paragraph_format = document.styles['Normal'].paragraph_format
+paragraph_format.space_before = docx.shared.Pt(0)
+paragraph_format.space_after = docx.shared.Pt(0)
+
 counter = 0 # this is for tracking progress
 new_length = len(data1)
 error_log = open("error_log.txt","w+") # open error log file to write
 row_counter = 1
 column_counter = 0 # reset back to 0
 count1 = 0 # this is to check amount of file not downloaded
-count_error = 0 # this is to check amount of file not downloaded
+count_error = 0 # this is to check amount of file not downloaded\
+
 for i in data1:
     url = list(urllib.request.urlopen(i[0]))
     url = list(map(str, url))
@@ -86,7 +95,18 @@ for i in data1:
         count1 += 1
         try:
             download_image(j, 'Borehole_logs/', i[1]+'_'+ str(count))
+            # Writing to word document 
+            document.add_paragraph('Reference : ' + i[1])
+            document.add_paragraph('Name : ' + i[2])            
+            document.add_paragraph('Length : ' + i[3])                
+            document.add_paragraph('Year : ' + i[4])
+            document.add_paragraph('Eastings : ' + i[5])                         
+            document.add_paragraph('Northings: ' + i[6])
+            document.add_paragraph('Sheet ' + str(count + 1) + ' of '+str(len(url)))
+            document.add_picture(os.path.join('Borehole_logs',i[1]+'_'+str(count)+'.png'))
+            document.add_page_break()
             count += 1
+            
         except urllib.error.HTTPError as e:
             if e.code in (..., 403, ...):
                 error_log.write('The image file from this link: ' + j + ' has not been downloaded due to 403 error \n')
@@ -96,6 +116,8 @@ for i in data1:
     for k in i:
         worksheet.write(row_counter, column_counter, k)
         column_counter += 1
+        
+
     column_counter = 0
     row_counter += 1
     count = 0
@@ -104,6 +126,7 @@ for i in data1:
 
 error_log.close()  # closing error log file
 excel.close() # closing excel file
+document.save('borehole_logs.docx')
 
 print('Completed')
 print(150*'=')
