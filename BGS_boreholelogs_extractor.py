@@ -103,7 +103,7 @@ for i in data1:
             document.add_paragraph('Eastings : ' + i[5])                         
             document.add_paragraph('Northings: ' + i[6])
             document.add_paragraph('Sheet ' + str(count + 1) + ' of '+str(len(url)))
-            document.add_picture(os.path.join('Borehole_logs',i[1]+'_'+str(count)+'.png'))
+            document.add_picture(os.path.join('Borehole_logs',i[1]+'_'+str(count)+'.png'), height=docx.shared.Inches(7))
             document.add_page_break()
             count += 1
             
