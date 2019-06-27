@@ -1,78 +1,16 @@
 Record	REFERENCE	NAME	LENGTH	YEAR_KNOWN	EASTING	NORTHING
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/947039' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW400	BECKTON GAS WORKS NO.1 WELL	21.34	null	544180	181460
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/14287899' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW2556	DLR BECKTON EXTENSION TP60	0.6	1987	544190	181360
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/14287900' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW2557	DLR BECKTON EXTENSION TP61	0.75	1987	544270	181330
-<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ48SW3840	EAST LONDON RIVER CROSSING A13 TO A2,CONRACT 2 VOL IV 184	Confidential	1983	544290	181320
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/14287902' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW2558	DLR BECKTON EXTENSION TP62	0.5	1987	544300	181330
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/14287904' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW2559	DLR BECKTON EXTENSION TP63	0.8	1987	544330	181320
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/947034' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW395	BECKTON GAS WORKS BH1 (1962) (1952)	10.66	null	544440	181320
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/947038' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW399	BECKTON GAS WORKS BH4 (PRIMARY FLASH)	19.2	null	544460	181350
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/947037' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW398	BECKTON GAS WORKS BH3 (PRIMARY FLASH)	21.03	null	544480	181390
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/947035' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW396	BECKTON GAS WORKS BH1 (PRIMARY FLASH)	22.48	null	544520	181320
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/947036' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW397	BECKTON GAS WORKS BH2 (PRIMARY FLASH)	18.14	null	544530	181380
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/947610' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW967	E LONDON RVR CROSSING BH210	29	null	543932	181436
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/947638' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW995	E LONDON RV X-ING A13-A2 TPN16	4	null	543935	181333
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/14287801' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW2524	DLR BECKTON EXTENSION TP29	3.8000000000000003	1987	543950	181370
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/14287798' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW2522	DLR BECKTON EXTENSION TP27	3	1987	543960	181410
 <a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/947582' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW939	E LONDON RVR CROSSING BH182	34.95	null	543970	181290
-<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ48SW3841	EAST LONDON RIVER CROSSING A13 TO A2,CONRACT 2 VOL IV 185	Confidential	1983	543970	181340
 <a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ48SW3838	EAST LONDON RIVER CROSSING A13 TO A2,CONRACT 2 VOL IV 182	Confidential	1983	543970	181290
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/947585' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW942	E LONDON RVR CROSSING BH185	15	null	543977	181346
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/14287805' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW2526	DLR BECKTON EXTENSION TP31	3.4	1987	543980	181310
 <a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/14287807' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW2527	DLR BECKTON EXTENSION TP33	3.4	1987	543980	181280
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/14287803' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW2525	DLR BECKTON EXTENSION TP30	3	1987	544000	181360
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/14287800' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW2523	DLR BECKTON EXTENSION TP28	3.4	1987	544010	181410
 <a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/14287743' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW2494	DLR BECKTON EXTENSION BH2	20	1987	544010	181270
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/14287812' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW2529	DLR BECKTON EXTENSION TP35	3.1	1987	544020	181350
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/14287826' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW2535	DLR BECKTON EXTENSION TP41	2.5	1987	544030	181280
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/14287768' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW2506	DLR BECKTON EXTENSION TP5	3	1987	544050	181310
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/947042' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW403	BECKTON GAS WORKS NO.4 WELL	20.8	1945	544060	181430
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/14287813' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW2530	DLR BECKTON EXTENSION TP36	3	1987	544060	181340
 <a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/14287771' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW2507	DLR BECKTON EXTENSION TP6	3	1987	544070	181260
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/14287820' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW2533	DLR BECKTON EXTENSION TP39	3.1	1987	544080	181300
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/14287816' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW2531	DLR BECKTON EXTENSION TP37	3.0500000000000003	1987	544100	181320
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/947041' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW402	BECKTON GAS WORKS NO.3 WELL	21.490000000000002	null	544100	181380
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/947043' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW404	BECKTON GAS WORKS NO.5 WELL	20.42	null	544110	181490
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/14287824' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW2534	DLR BECKTON EXTENSION TP40	3	1987	544120	181290
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/14287818' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW2532	DLR BECKTON EXTENSION TP38	3	1987	544120	181320
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/947040' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW401	BECKTON GAS WORKS NO.2 WELL	21.34	null	544150	181400
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/947045' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW406	BECKTON GAS WORKS NO.7 WELL	11.58	null	544150	181470
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/14287883' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW2547	DLR BECKTON EXTENSION TP53	0.7000000000000001	1987	544160	181260
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/14287885' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW2548	DLR BECKTON EXTENSION TP53A	3.5	1987	544160	181270
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/14287774' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW2509	DLR BECKTON EXTENSION TP8	2.7	1987	544170	181340
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/14287856' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW2544	DLR BECKTON EXTENSION TP50	3	1987	544390	181210
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/14287892' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW2552	DLR BECKTON EXTENSION TP57	3	1987	544310	181210
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/14287893' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW2553	DLR BECKTON EXTENSION TP58	3.2	1987	544350	181210
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/14287889' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW2551	DLR BECKTON EXTENSION TP56	3	1987	544280	181220
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/14287785' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW2514	DLR BECKTON EXTENSION TP13	3	1987	544390	181220
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/14287780' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW2512	DLR BECKTON EXTENSION TP11	4	1987	544250	181230
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/14287745' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW2495	DLR BECKTON EXTENSION BH3	20	1987	544230	181240
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/14287888' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW2550	DLR BECKTON EXTENSION TP55	3.4	1987	544210	181240
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/14287858' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW2545	DLR BECKTON EXTENSION TP51	3.5	1987	544320	181240
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/14287880' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW2546	DLR BECKTON EXTENSION TP52	3.2	1987	544360	181240
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/14287897' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW2555	DLR BECKTON EXTENSION TP59A	1.8	1987	544300	181250
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/14287895' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW2554	DLR BECKTON EXTENSION TP59	1	1987	544290	181260
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/14287782' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW2513	DLR BECKTON EXTENSION TP12	3	1987	544400	181260
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/14287886' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW2549	DLR BECKTON EXTENSION TP54	3.4	1987	544190	181260
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/14287789' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW2516	DLR BECKTON EXTENSION TP21	3.1	1987	544220	181270
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/14287746' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW2496	DLR BECKTON EXTENSION BH4	20	1987	544370	181270
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/14287838' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW2540	DLR BECKTON EXTENSION TP46	3	1987	544360	181270
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/14287837' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW2539	DLR BECKTON EXTENSION TP45	3.2	1987	544330	181280
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/14287841' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW2542	DLR BECKTON EXTENSION TP48	3.7	1987	544230	181280
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/14287855' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW2543	DLR BECKTON EXTENSION TP49	3	1987	544270	181280
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/14287834' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW2538	DLR BECKTON EXTENSION TP44	4.4	1987	544300	181290
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/14287907' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW2561	DLR BECKTON EXTENSION TP65	0.5	1987	544430	181290
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/14287776' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW2510	DLR BECKTON EXTENSION TP9	3.2	1987	544240	181300
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/14287760' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW2502	DLR BECKTON EXTENSION BH40	20	1987	544200	181300
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/14287832' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW2537	DLR BECKTON EXTENSION TP43	3	1987	544220	181300
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/14287777' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW2511	DLR BECKTON EXTENSION TP10	3	1987	544280	181310
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/14287840' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW2541	DLR BECKTON EXTENSION TP47	3	1987	544170	181310
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/14287906' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW2560	DLR BECKTON EXTENSION TP64	1	1987	544360	181310
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ48SW3834	EAST LONDON RIVER CROSSING A13 TO A2,CONRACT 2 VOL IV 178	Confidential	1983	544020	181180
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/947578' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW935	E LONDON RVR CROSSING BH178	30	null	544023	181186
 <a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/14287828' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW2536	DLR BECKTON EXTENSION TP42	3	1987	544100	181250
 <a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/14287772' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW2508	DLR BECKTON EXTENSION TP7	4.3	1987	544150	181230
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/947364' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW721	GASLANDS NORTH OF ROYAL DOCKS G64	15	1986	543880	181459
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/947584' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW941	E LONDON RVR CROSSING BH184	15.700000000000001	null	543900	181322
-<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ48SW3839	EAST LONDON RIVER CROSSING A13 TO A2,CONRACT 2 VOL IV 183	Confidential	1983	543930	181300
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/947583' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW940	E LONDON RVR CROSSING BH183	16.5	null	543930	181308
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/14287766' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW2505	DLR BECKTON EXTENSION TP4	3.7	1987	543930	181330
-<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ48SW3866	EAST LONDON RIVER CROSSING A13 TO A2,CONRACT 2 VOL V 210	Confidential	1983	543930	181430
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/947579' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW936	E LONDON RVR CROSSING BH179	24.95	null	543976	181194
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ48SW3836	EAST LONDON RIVER CROSSING A13 TO A2,CONRACT 2 VOL IV 180	Confidential	1983	543990	181250
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/14287808' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW2528	DLR BECKTON EXTENSION TP34	3	1987	543950	181250
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ48SW3837	EAST LONDON RIVER CROSSING A13 TO A2,CONRACT 2 VOL IV 181	Confidential	1983	543940	181250
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/947580' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW937	E LONDON RVR CROSSING BH180	50.300000000000004	null	543990	181250
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/947581' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW938	E LONDON RVR CROSSING BH181	16.95	null	543947	181253
