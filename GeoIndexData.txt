@@ -1,16 +1,303 @@
 Record	REFERENCE	NAME	LENGTH	YEAR_KNOWN	EASTING	NORTHING
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/947582' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW939	E LONDON RVR CROSSING BH182	34.95	null	543970	181290
-<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ48SW3838	EAST LONDON RIVER CROSSING A13 TO A2,CONRACT 2 VOL IV 182	Confidential	1983	543970	181290
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/14287807' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW2527	DLR BECKTON EXTENSION TP33	3.4	1987	543980	181280
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/14287743' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW2494	DLR BECKTON EXTENSION BH2	20	1987	544010	181270
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/14287771' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW2507	DLR BECKTON EXTENSION TP6	3	1987	544070	181260
-<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ48SW3834	EAST LONDON RIVER CROSSING A13 TO A2,CONRACT 2 VOL IV 178	Confidential	1983	544020	181180
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/947578' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW935	E LONDON RVR CROSSING BH178	30	null	544023	181186
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/14287828' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW2536	DLR BECKTON EXTENSION TP42	3	1987	544100	181250
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/14287772' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW2508	DLR BECKTON EXTENSION TP7	4.3	1987	544150	181230
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/947579' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW936	E LONDON RVR CROSSING BH179	24.95	null	543976	181194
-<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ48SW3836	EAST LONDON RIVER CROSSING A13 TO A2,CONRACT 2 VOL IV 180	Confidential	1983	543990	181250
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/14287808' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW2528	DLR BECKTON EXTENSION TP34	3	1987	543950	181250
-<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ48SW3837	EAST LONDON RIVER CROSSING A13 TO A2,CONRACT 2 VOL IV 181	Confidential	1983	543940	181250
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/947580' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW937	E LONDON RVR CROSSING BH180	50.300000000000004	null	543990	181250
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/947581' class= 'bodyLink' target='_blank'>Scan</a>	TQ48SW938	E LONDON RVR CROSSING BH181	16.95	null	543947	181253
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/598732' class= 'bodyLink' target='_blank'>Scan</a>	TQ37NW1626	LETTSOM DEV AREA 1	15.24	1970	533029	176303
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/598733' class= 'bodyLink' target='_blank'>Scan</a>	TQ37NW1627	LETTSOM DEV AREA 2	27.43	1970	533078	176245
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/598735' class= 'bodyLink' target='_blank'>Scan</a>	TQ37NW1629	LETTSOM DEV AREA 4	10.67	1970	533112	176296
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/598734' class= 'bodyLink' target='_blank'>Scan</a>	TQ37NW1628	LETTSOM DEV AREA 3	15.24	1970	533116	176332
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/598737' class= 'bodyLink' target='_blank'>Scan</a>	TQ37NW1631	LETTSOM DEV AREA 6	15.24	1970	533153	176391
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/598669' class= 'bodyLink' target='_blank'>Scan</a>	TQ37NW1563	CAMBERWELL GREEN BAKERLOO EXT BH17	24.5	1973	533156	176279
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/598736' class= 'bodyLink' target='_blank'>Scan</a>	TQ37NW1630	LETTSOM DEV AREA 5	15.24	1970	533170	176268
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/598738' class= 'bodyLink' target='_blank'>Scan</a>	TQ37NW1632	LETTSOM DEV AREA 7	21.34	1970	533177	176348
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/598740' class= 'bodyLink' target='_blank'>Scan</a>	TQ37NW1634	LETTSOM DEV AREA 9	12.19	1970	533238	176312
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/598742' class= 'bodyLink' target='_blank'>Scan</a>	TQ37NW1636	LETTSOM DEV AREA 12	22.86	1970	533242	176417
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/598739' class= 'bodyLink' target='_blank'>Scan</a>	TQ37NW1633	LETTSOM DEV AREA 8	15.24	1970	533257	176351
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/598741' class= 'bodyLink' target='_blank'>Scan</a>	TQ37NW1635	LETTSOM DEV AREA 11	15.24	1970	533300	176350
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/599197' class= 'bodyLink' target='_blank'>Scan</a>	TQ37NW2090	KINGS COLLEGE HOSPITAL	110	1990	532680	176240
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/597990' class= 'bodyLink' target='_blank'>Scan</a>	TQ37NW905/A-E	LCC MAUDSLEY HOSPITAL DENMARK HILL BH1-5	9.14	null	532710	176260
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/597989' class= 'bodyLink' target='_blank'>Scan</a>	TQ37NW905/A	LCC MAUDSLEY HOSPITAL DENMARK	9	null	532710	176260
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/599257' class= 'bodyLink' target='_blank'>Scan</a>	TQ37NW2150	CAMBERWELL GROVE CAMBERWELL	154.84	null	533000	176300
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/597159' class= 'bodyLink' target='_blank'>Scan</a>	TQ37NW153	L.C.C. K158	9	null	532690	176310
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/598668' class= 'bodyLink' target='_blank'>Scan</a>	TQ37NW1562	CAMBERWELL GREEN BAKERLOO EXT BH16	33.75	1973	532877	176348
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/598667' class= 'bodyLink' target='_blank'>Scan</a>	TQ37NW1561	CAMBERWELL GREEN BAKERLOO EXT BH15	29.5	1973	532798	176482
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/598672' class= 'bodyLink' target='_blank'>Scan</a>	TQ37NW1566	BAKERLOO LINE EXTENSION BH20	24.400000000000002	1973	533793	176092
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/598671' class= 'bodyLink' target='_blank'>Scan</a>	TQ37NW1565	BAKERLOO LINE EXTENSION 19	43.5	1973	533485	176146
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/597858' class= 'bodyLink' target='_blank'>Scan</a>	TQ37NW789	LYNDHURST GROVE PRIMARY SCHOOL A-D	9.75	null	533300	176200
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/598670' class= 'bodyLink' target='_blank'>Scan</a>	TQ37NW1564	BAKERLOO LINE EXTENSION BH18	41	1973	533311	176213
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Scan not currently available in GeoIndex – try GeoRecords Plus+.</a>	TQ37NW240/A-G	L.C.C. CHAMPION HALL NO.1 EXT	10.66	null	532800	175950
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/597259' class= 'bodyLink' target='_blank'>Scan</a>	TQ37NW240/A	L.C.C. CHAMPION HALL NO.1 EXT	7	null	532800	175950
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/598576' class= 'bodyLink' target='_blank'>Scan</a>	TQ37NW1470	TUDOR STACKS DORCHESTER DRIVE TH2	2.13	null	532330	175050
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/598643' class= 'bodyLink' target='_blank'>Scan</a>	TQ37NW1537	DENMARK HILL BH8	13.71	null	532759	175183
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/598648' class= 'bodyLink' target='_blank'>Scan</a>	TQ37NW1542	DENMARK HILL BH5	9.44	null	532708	175244
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/598649' class= 'bodyLink' target='_blank'>Scan</a>	TQ37NW1543	DENMARK HILL BH6	11.58	null	532768	175300
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/598642' class= 'bodyLink' target='_blank'>Scan</a>	TQ37NW1536	DENMARK HILL BH4	8.38	null	532666	175305
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/598641' class= 'bodyLink' target='_blank'>Scan</a>	TQ37NW1535	DENMARK HILL BH3	9.14	null	532717	175380
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602949' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW555	ALLEYNS COUNTY COMPLEMENT SCHOOL E	6.4	1956	532790	174760
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602940' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW546	ALLEYNS COUNTY COMPLEMENT SCHOOL BH9	5.18	1954	532830	174790
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602948' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW554	ALLEYNS COUNTY COMPLEMENT SCHOOL D	12.49	1956	532850	174770
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/18779196' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW911	PROPOSED NEW GYM AT CHARTER SCHOOL RED POST HILL DULWICH LONDON 1	20	2005	532860	174800
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602944' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW550	ALLEYNS COUNTY COMPLEMENT SCHOOL BH13	5.48	1954	532860	174820
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/18779199' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW913	PROPOSED NEW GYM AT CHARTER SCHOOL RED POST HILL DULWICH LONDON WS1	3	2005	532860	174810
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/18779207' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW917	PROPOSED NEW GYM AT CHARTER SCHOOL RED POST HILL DULWICH LONDON WS5	3	2005	532860	174850
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602939' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW545	ALLEYNS COUNTY COMPLEMENT SCHOOL BH8	4.87	1954	532860	174730
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602946' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW552	ALLEYNS COUNTY COMPLEMENT SCHOOL B	11.27	1956	532870	174840
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/18779197' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW912	PROPOSED NEW GYM AT CHARTER SCHOOL RED POST HILL DULWICH LONDON 2	20	2005	532870	174820
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602941' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW547	ALLEYNS COUNTY COMPLEMENT SCHOOL BH10	4.57	1954	532870	174780
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/18779201' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW914	PROPOSED NEW GYM AT CHARTER SCHOOL RED POST HILL DULWICH LONDON WS2	3	2005	532870	174820
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/18779203' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW915	PROPOSED NEW GYM AT CHARTER SCHOOL RED POST HILL DULWICH LONDON WS3	3	2005	532870	174810
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602947' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW553	ALLEYNS COUNTY COMPLEMENT SCHOOL C	12.49	1956	532870	174800
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602938' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW544	ALLEYNS COUNTY COMPLEMENT SCHOOL BH7	7.01	1954	532880	174700
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ37SW703	BRIXTON TO HONOR OAK THAMES WATER UTILITIES 7	Confidential	1992	532885	174667
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602942' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW548	ALLEYNS COUNTY COMPLEMENT SCHOOL BH11	6.09	1954	532890	174760
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/18779206' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW916	PROPOSED NEW GYM AT CHARTER SCHOOL RED POST HILL DULWICH LONDON WS4	4	2005	532890	174810
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602932' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW538	ALLEYNS COUNTY COMPLEMENT SCHOOL BH1	7.08	1954	532900	174830
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602937' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW543	ALLEYNS COUNTY COMPLEMENT SCHOOL BH6	6.7	1954	532910	174710
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602943' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW549	ALLEYNS COUNTY COMPLEMENT SCHOOL BH12	6.4	1954	532910	174780
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602945' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW551	ALLEYNS COUNTY COMPLEMENT SCHOOL A	16.15	1956	532920	174820
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602933' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW539	ALLEYNS COUNTY COMPLEMENT SCHOOL BH2	6.09	1954	532930	174800
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602936' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW542	ALLEYNS COUNTY COMPLEMENT SCHOOL BH5	5.18	1954	532940	174710
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602934' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW540	ALLEYNS COUNTY COMPLEMENT SCHOOL BH3	7.01	1954	532950	174770
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602935' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW541	ALLEYNS COUNTY COMPLEMENT SCHOOL BH4	6.09	1954	532960	174740
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ37SW699	BRIXTON TO HONOR OAK THAMES WATER UTILITIES 3	Confidential	1992	531315	174504
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ37SW711	EFFRA RELIEF SEWER 276/6A	Confidential	1982	531330	174540
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ37SW700	BRIXTON TO HONOR OAK THAMES WATER UTILITIES 4	Confidential	1992	531721	174547
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602859' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW486	MUMFORD ROAD SITE SE 24 TP.D	2.13	1955	531710	174550
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602563' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW225	G.L.C. HEALTH ENGINEERING (SEWERS) Q28	12.83	null	531150	174620
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ37SW710	EFFRA RELIEF SEWER 276/6	Confidential	1982	531440	174630
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602730' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW386	EFFRA ROAD BRIXTON BH2	9.14	1970	531230	174800
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602729' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW385	EFFRA ROAD BRIXTON BH1	9.14	1970	531200	174820
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602078' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW13	GAS BOARD HERNE HILL BH66	9	null	531530	174910
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/603211' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW780	JAMES ALLEN GIRLS SCHOOL	100	1993	533120	174830
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ37SW727	JAGS EXPLORATION BH	Confidential	null	533137	174843
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602743' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW393	EAST DULWICH GROVE BH1	13.71	1964	533190	174830
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602744' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW394	EAST DULWICH GROVE BH2	15.24	1964	533250	174770
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ37SW924	BRIXTON RING MAIN 10	Confidential	2005	533280	174474
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602745' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW395	EAST DULWICH GROVE BH3	7.92	1964	533290	174900
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602476' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW182	DULWICH GROVE LAUNDRY	Unknown	null	533290	174990
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ37SW849	GROVE VALE STORM RELIEF SEWER STAGE II 11	Confidential	1983	533310	174890
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602746' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW396	EAST DULWICH GROVE BH4	7.62	1964	533330	174810
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/599213' class= 'bodyLink' target='_blank'>Scan</a>	TQ37NW2106	DULWICH HOSPITAL	88.39	null	533370	175130
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/597269' class= 'bodyLink' target='_blank'>Scan</a>	TQ37NW249	ST SAVIOURS INFIRMARY	92.96000000000001	1886	533400	175090
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/597781' class= 'bodyLink' target='_blank'>Scan</a>	TQ37NW714	BRITISH RAIL 191-69-52 BH5	3.35	null	533410	175330
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/597779' class= 'bodyLink' target='_blank'>Scan</a>	TQ37NW712	BRITISH RAIL 191-69-52 BH3	3.0500000000000003	null	533420	175330
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/597780' class= 'bodyLink' target='_blank'>Scan</a>	TQ37NW713	BRITISH RAIL 191-69-52 BH4	3.0500000000000003	null	533430	175350
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/597777' class= 'bodyLink' target='_blank'>Scan</a>	TQ37NW710	BRITISH RAIL 191-69-52 BH1	6.45	null	533450	175330
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/597778' class= 'bodyLink' target='_blank'>Scan</a>	TQ37NW711	BRITISH RAIL 191-69-52 BH2	5.5600000000000005	null	533460	175330
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ37SW925	BRIXTON RING MAIN 11	Confidential	2005	533468	174517
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ37NW2817	GROVE VALE STORM RELIEF SEWER STAGE II 10	Confidential	1983	533470	175020
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/603212' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW781	ALLEYNS SCH TOWNLEY RD	65	1993	533480	174490
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ37SW726	ALLEYNS SCHOOL EXPLORATION BH	Confidential	null	533497	174503
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/598021' class= 'bodyLink' target='_blank'>Scan</a>	TQ37NW936/A	FERNIE HOUSE QUORN ROAD BH1-3	15	null	533510	175600
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Scan not currently available in GeoIndex – try GeoRecords Plus+.</a>	TQ37NW936/A-D	FERNIE HOUSE QUORN ROAD BH1-3	4	null	533510	175600
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ37NW2816	GROVE VALE STORM RELIEF SEWER STAGE II 9	Confidential	1983	533540	175070
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ37SW704	BRIXTON TO HONOR OAK THAMES WATER UTILITIES 8	Confidential	1992	533542	174692
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ37NW2818	GROVE VALE STORM RELIEF SEWER STAGE II 12	Confidential	1983	533620	175110
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ37NW2815	GROVE VALE STORM RELIEF SEWER STAGE II 8	Confidential	1983	533620	175110
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ37NW2812	GROVE VALE STORM RELIEF SEWER STAGE II 5	Confidential	1983	533630	175270
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ37NW2809	GROVE VALE STORM RELIEF SEWER STAGE II 2	Confidential	1983	533640	175380
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602857' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW484	MUMFORD ROAD SITE SE 24 TP.B	3.04	1955	531730	174450
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/603086' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW664	HERNEHILL-STATION IMPROVMENTS BH1	4	1975	531966	174452
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602640' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW302	LAMBETH BORO HURST ST DEVELOPMENT BH2	21.330000000000002	1966	531780	174460
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/603087' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW665	HERNEHILL-STATION IMPROVMENTS BH2	4	1975	531954	174474
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602641' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW303	LAMBETH BORO HURST ST DEVELOPMENT BH3	21.330000000000002	1966	531800	174480
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602643' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW305	LAMBETH BORO HURST ST DEVELOPMENT BH5	9.14	1966	531840	174480
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602961' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW560	ELMWOOD RD HOUSING BH2	10.66	1962	532610	174480
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602644' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW306	LAMBETH BORO HURST ST DEVELOPMENT BH6	9.14	1966	531830	174490
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602642' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW304	LAMBETH BORO HURST ST DEVELOPMENT BH4	21.330000000000002	1966	531810	174500
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/603089' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW667	HERNEHILL-STATION IMPROVMENTS BH4	7.95	1976	531914	174523
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/603040' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW628	SITE 42 CAMBERWELL BH3	6.7	1949	532120	174530
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602645' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW307	LAMBETH BORO HURST ST DEVELOPMENT BH7	9.14	1966	531830	174530
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/603038' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW626	SITE 42 CAMBERWELL BH1	6.7	1949	532120	174530
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/603039' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW627	SITE 42 CAMBERWELL BH2	6.7	1949	532120	174530
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/603041' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW629	SITE 42 CAMBERWELL BH4	6.7	1949	532120	174530
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602646' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW308	LAMBETH BORO HURST ST DEVELOPMENT BH8	9.14	1966	531830	174550
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602781' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW431	OLD FIRE STATION TP.C HERNE HILL	1.82	null	531950	174560
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602825' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW470	WOODQUEST AVENUE C	4.57	1965	532020	174570
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602823' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW469/A	WOODQUEST AVENUE B	4.57	1965	531980	174570
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ37SW701	BRIXTON TO HONOR OAK THAMES WATER UTILITIES 5	Confidential	1992	532127	174576
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ37SW702	BRIXTON TO HONOR OAK THAMES WATER UTILITIES 6	Confidential	1992	532582	174613
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602821' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW468/A	WOODQUEST AVENUE A	4.57	1965	531920	174630
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602860' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW487	MUMFORD ROAD SITE SE 24 TP.E	3.04	1955	531730	174630
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602280' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW64/C	BR-SR HERNE HILL BRIDGE HERNE HILL 4	4.88	1958	531740	174820
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602279' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW64/B	BR-SR HERNE HILL BRIDGE HERNE HILL 3	5.18	1958	531740	174820
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602281' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW64/D	BR-SR HERNE HILL BRIDGE HERNE HILL 5	2.5100000000000002	1958	531740	174820
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602278' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW64/A	BR-SR HERNE HILL BRIDGE HERNE HILL 2	2.59	1958	531740	174820
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/598577' class= 'bodyLink' target='_blank'>Scan</a>	TQ37NW1471	TUDOR STACKS DORCHESTER DRIVE TH3	3.35	null	532330	175050
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/598575' class= 'bodyLink' target='_blank'>Scan</a>	TQ37NW1469	TUDOR STACKS DORCHESTER DRIVE TH1	3.65	null	532330	175050
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ37NW2811	GROVE VALE STORM RELIEF SEWER STAGE II 4	Confidential	1983	533650	175320
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ37NW2810	GROVE VALE STORM RELIEF SEWER STAGE II 3	Confidential	1983	533650	175360
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ37NW2813	GROVE VALE STORM RELIEF SEWER STAGE II 6	Confidential	1983	533650	175210
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ37NW2814	GROVE VALE STORM RELIEF SEWER STAGE II 7	Confidential	1983	533660	175160
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ37NW2808	GROVE VALE STORM RELIEF SEWER STAGE II 1	Confidential	1983	533670	175430
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602603' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW265	EAST DULWICH POLICE STATION A	8.83	1969	533760	174690
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602604' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW266	EAST DULWICH POLICE STATION B	8.53	1969	533780	174680
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602605' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW267	EAST DULWICH POLICE STATION C	8.22	1969	533790	174670
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602069' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW4	CORNER OF NORTH CROSS ROAD / LORDSHIP LANE SE	9.14	1859	533830	174970
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602071' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW6	SOUTHERN HIGH LEVEL SEWERS EAST DULWICH	13.71	1859	533290	174320
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602070' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW5	SOUTHERN HIGH LEVEL SEWERS EAST DULWICH	12.5	1859	533420	174420
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ37SW720	EFFRA RELIEF SEWER 276/10A	Confidential	1983	532170	173680
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Scan not currently available in GeoIndex – try GeoRecords Plus+.</a>	TQ37SW68/B	L.C.C.TURNEY SCHOOL LAMBETH 2	6.09	1964	532270	173720
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Scan not currently available in GeoIndex – try GeoRecords Plus+.</a>	TQ37SW68/A	L.C.C.TURNEY SCHOOL LAMBETH 1	9.14	1964	532270	173720
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Scan not currently available in GeoIndex – try GeoRecords Plus+.</a>	TQ37SW68/D	L.C.C.TURNEY SCHOOL LAMBETH 4	9.14	1964	532270	173720
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Scan not currently available in GeoIndex – try GeoRecords Plus+.</a>	TQ37SW68/C	L.C.C.TURNEY SCHOOL LAMBETH 3	6.09	1964	532270	173720
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602274' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW62/A	BR-SR WEST DULWICH 1B	7.3100000000000005	1954	532460	173760
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602572' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW234	G.L.C. HEALTH ENGINEERING (SEWERS) R18	14.02	null	532110	173770
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602080' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW15	L.C.C.MAIN DRAINAGE LAMBETH 2	11.28	1937	531940	173890
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602668' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW330	GAS PIT	1.52	null	531970	173900
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602570' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW232	G.L.C. HEALTH ENGINEERING (SEWERS) R29	24.990000000000002	null	531790	173940
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602569' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW231	G.L.C. HEALTH ENGINEERING (SEWERS) R28	24.68	null	531830	173950
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ37SW719	EFFRA RELIEF SEWER 276/10	Confidential	1982	532130	173950
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602571' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW233	G.L.C. HEALTH ENGINEERING (SEWERS) R30	23.31	null	531810	173950
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602567' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW229	G.L.C. HEALTH ENGINEERING (SEWERS) R26	25.6	null	531800	173960
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602566' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW228	G.L.C. HEALTH ENGINEERING (SEWERS) R25	30.48	null	531780	173970
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602568' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW230	G.L.C. HEALTH ENGINEERING (SEWERS) R27	24.23	null	531820	173980
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602565' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW227	G.L.C. HEALTH ENGINEERING (SEWERS) R24	31.39	null	531750	173990
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ37SW716	EFFRA RELIEF SEWER 276/8A	Confidential	1983	532070	174220
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ37SW715	EFFRA RELIEF SEWER 276/8	Confidential	1982	531980	174250
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ37SW919	BRIXTON RING MAIN 3	Confidential	2005	531848	174296
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602965' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW564	HALFMOON LANE CAMBERWELL BH4	6.09	1962	532430	174310
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ37SW922	BRIXTON RING MAIN 6	Confidential	2005	532223	174326
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ37SW717	EFFRA RELIEF SEWER 276/9	Confidential	1982	532210	174330
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ37SW921	BRIXTON RING MAIN 5	Confidential	2005	532127	174334
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602068' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW3	HERNE HILL ALLIANCE DAIRY CO	61.56	1910	532100	174340
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ37SW718	EFFRA RELIEF SEWER 276/9A	Confidential	1982	532360	174360
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ37SW920	BRIXTON RING MAIN 4	Confidential	2005	532076	174377
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/603107' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW676	FOOT OF HERNE HILL	16.15	null	532000	174400
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602639' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW301	LAMBETH BORO HURST ST DEVELOPMENT BH1	21.330000000000002	1966	531780	174410
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/603090' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW668	HERNEHILL-STATION IMPROVMENTS BH5	8.05	1976	531957	174442
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/603088' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW666	HERNEHILL-STATION IMPROVMENTS BH3	6.55	1975	531926	174443
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602275' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW62/B	BR-SR WEST DULWICH 2B	7.92	1954	532460	173760
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602276' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW62/C	BR-SR WEST DULWICH 3B	4.57	1954	532460	173760
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602964' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW563	HALFMOON LANE CAMBERWELL BH3	6.09	1962	532540	174230
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602967' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW566	HALFMOON LANE CAMBERWELL BH6	6.09	1962	532540	174380
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602966' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW565	HALFMOON LANE CAMBERWELL BH5	6.09	1962	532540	174310
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602721' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW377	DULWICH COLLEGE C	12.19	1962	532590	174380
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602963' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW562	HALFMOON LANE CAMBERWELL BH2	9.14	1962	532600	174280
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ37SW923	BRIXTON RING MAIN 8	Confidential	2005	532619	174406
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602720' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW376	DULWICH COLLEGE B	12.19	1962	532620	174380
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602960' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW559	ELMWOOD RD HOUSING BH1	10.66	1962	532620	174450
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602719' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW375	DULWICH COLLEGE A	12.19	1962	532640	174400
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602962' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW561	HALFMOON LANE CAMBERWELL BH1	6.09	1962	532650	174310
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602630' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW292	BGS AUGER HOLE FGB 13	1.52	null	532760	173350
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602631' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW293	BGS AUGER HOLE FGB 14	2.74	null	532770	173160
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602602' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW264	BGS AUGER HOLE FGB 10	3.04	null	532970	174370
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602600' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW262	BGS AUGER HOLE FGB 8	3.04	null	532980	174220
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602599' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW261	BGS AUGER HOLE FGB 7	3.04	null	533000	174230
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/603103' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW673/A	DULWICH VILLAGE C OF E SCHOOL TP A	2.8000000000000003	1978	533040	174340
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/603104' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW673/B	DULWICH VILLAGE C OF E SCHOOL TP B	2.25	1978	533040	174340
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602601' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW263	BGS AUGER HOLE FGB 9	3.04	null	533050	174170
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602538' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW200	COLLEGE GARDEN DEVELOPMENT BH2	9.14	1967	533100	173510
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602539' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW201	COLLEGE GARDEN DEVELOPMENT BH1	9.14	1967	533130	173520
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602783' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW433	SEWER SECTION DULWICH VILLAGE	4.57	null	533160	174030
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602575' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW237	G.L.C. HEALTH ENGINEERING (SEWERS) R23	18.28	null	532380	173160
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602574' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW236	G.L.C. HEALTH ENGINEERING (SEWERS) R16	24.990000000000002	null	532340	173270
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ37SW721	EFFRA RELIEF SEWER 276/11	Confidential	1983	532230	173510
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602573' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW235	G.L.C. HEALTH ENGINEERING (SEWERS) R17	15.84	null	532200	173660
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/19554592' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW930	DULWICH COLLEGE BH 2	126	2014	533200	172900
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/19554591' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW929	DULWICH COLLEGE BH 1	126	2013	533300	172800
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/603061' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW649	ASHFORD TO HONOR OAK BH28	39.62	1968	533420	172780
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/13326326' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW813	HAMBLEDON HOUSE DEVELOPMENT DULWICH TP 1	1.7	1983	533450	173110
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/13326338' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW817	HAMBLEDON HOUSE DEVELOPMENT DULWICH TP 5	2.1	1983	533490	173150
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/603121' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW690	DULWICH AND SYDENHAM GOLF CLUB	135	1991	533500	172800
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/13326334' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW814	HAMBLEDON HOUSE DEVELOPMENT DULWICH TP 2	2	1983	533530	173140
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/13326337' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW816	HAMBLEDON HOUSE DEVELOPMENT DULWICH TP 4	1.9000000000000001	1983	533560	173190
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/13326335' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW815	HAMBLEDON HOUSE DEVELOPMENT DULWICH TP 3	1.8	1983	533620	173130
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/603035' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW624/E	CROXTED ROAD CAMBERWELL	12.64	1954	532800	172800
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/603032' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW624/B	CROXTED ROAD CAMBERWELL	12.64	1954	532800	172800
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/603031' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW624/A	CROXTED ROAD CAMBERWELL	12.8	1954	532800	172800
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/603034' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW624/D	CROXTED ROAD CAMBERWELL	12.030000000000001	1954	532800	172800
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/603033' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW624/C	CROXTED ROAD CAMBERWELL	9.14	1954	532800	172800
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602577' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW239	G.L.C. HEALTH ENGINEERING (SEWERS) R11	18.28	null	532400	172990
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602597' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW259	WEST DULWICH STATION RECONSTRUCTION 1	10.21	1969	532750	173010
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602598' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW260	WEST DULWICH STATION RECONSTRUCTION 2	9.14	1969	532780	173020
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602576' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW238	G.L.C. HEALTH ENGINEERING (SEWERS) R10	17.22	null	532420	173030
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602582' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW244	G.L.C. HEALTH ENGINEERING (SEWERS) R21	10.66	null	532500	173040
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602583' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW245	G.L.C. HEALTH ENGINEERING (SEWERS) R9	8.07	null	532580	173070
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602585' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW247	G.L.C. HEALTH ENGINEERING (SEWERS) R8	7.92	null	532750	173080
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602584' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW246	G.L.C. HEALTH ENGINEERING (SEWERS) R22	9.14	null	532670	173080
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602073' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW8	THURLOW PARK ROAD & GALLERY ROAD R6	13.1	1859	532900	173090
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602082' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW17	PROSPECT INVESTIGATION WEST DULWICH 2	6.24	1952	532730	173100
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602081' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW16	RAILWAY EECUTIVE WEST DULWICH 1	5.4	1952	532720	173140
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ37SW722	EFFRA RELIEF SEWER 276/12	Confidential	1983	532380	173150
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/603173' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW742	SYDENHAM HILL 1	12	1987	534200	172100
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/603174' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW743	SYDENHAM HILL 2	12	1987	534200	172100
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Scan not currently available in GeoIndex – try GeoRecords Plus+.</a>	TQ37SW56/A	HILLCREST ROAD LEWISHAM 1	9.14	1962	533990	171640
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602388' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW131/C	SYDENHAM HILL 3	15.23	1967	534000	171720
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602700' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW356	ST CLEMENT DAMES SYDENHAM HILL B	3	1971	534000	171960
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602386' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW131/A	SYDENHAM HILL 1	15.23	1967	534010	171740
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602392' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW131	16 SYDENHAM HILL (THE WOOD) 1	Unknown	null	534010	171740
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602699' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW355	ST CLEMENT DAMES SYDENHAM HILL A	4	1971	534020	171940
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602387' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW131/B	SYDENHAM HILL 2	15.23	1967	534020	171710
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602704' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW360	ST CLEMENT DAMES SYDENHAM HILL H	3	1971	534030	171890
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602703' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW359	ST CLEMENT DAMES SYDENHAM HILL E	4	1971	534030	171870
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Scan not currently available in GeoIndex – try GeoRecords Plus+.</a>	TQ37SW56/B	HILLCREST ROAD LEWISHAM 2	15.24	1962	534080	171630
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Scan not currently available in GeoIndex – try GeoRecords Plus+.</a>	TQ37SW56/C	HILLCREST ROAD LEWISHAM 3	15.24	1962	534090	171680
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602670' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW332	ST CLEMENT DAMES SYDENHAM HILL BH2	24	1971	534100	171960
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602669' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW331	ST CLEMENT DAMES SYDENHAM HILL BH1	24	1971	534100	171900
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602742' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW392/G	SYDENHAM HILL 12	10.82	1960	534100	171900
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602736' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW392/A	SYDENHAM HILL 1	17.22	1960	534100	171900
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602741' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW392/F	SYDENHAM HILL 11	13.11	1960	534100	171900
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602739' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW392/D	SYDENHAM HILL 7	11.73	1960	534100	171900
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602737' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW392/B	SYDENHAM HILL 2	27.43	1960	534100	171900
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602740' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW392/E	SYDENHAM HILL 8	22.86	1960	534100	171900
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602738' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW392/C	SYDENHAM HILL 4	7.62	1960	534100	171900
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Scan not currently available in GeoIndex – try GeoRecords Plus+.</a>	TQ37SW56/G	HILLCREST ROAD LEWISHAM 7	9.14	1962	534110	171610
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602671' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW333	ST CLEMENT DAMES SYDENHAM HILL BH3	18	1971	534130	171960
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Scan not currently available in GeoIndex – try GeoRecords Plus+.</a>	TQ37SW56/D	HILLCREST ROAD LEWISHAM 4	15.24	1962	534130	171750
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602672' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW334	ST CLEMENT DAMES SYDENHAM HILL BH4A	10	1971	534140	171910
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Scan not currently available in GeoIndex – try GeoRecords Plus+.</a>	TQ37SW56/E	HILLCREST ROAD LEWISHAM 5	15.24	1962	534140	171660
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602458' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW167/A	13-14 VIGILANT CLOSE HILLCREST ROAD LEWISHAM 1	6.09	1970	534160	171850
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602459' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW167/B	13-14 VIGILANT CLOSE HILLCREST ROAD LEWISHAM 2	6.09	1970	534160	171850
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Scan not currently available in GeoIndex – try GeoRecords Plus+.</a>	TQ37SW56/H	HILLCREST ROAD LEWISHAM 8	9.14	1962	534160	171810
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602461' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW167/D	13-14 VIGILANT CLOSE HILLCREST ROAD LEWISHAM 4	6.4	1970	534160	171850
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602460' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW167/C	13-14 VIGILANT CLOSE HILLCREST ROAD LEWISHAM 3	6.09	1970	534160	171850
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Scan not currently available in GeoIndex – try GeoRecords Plus+.</a>	TQ37SW56/F	HILLCREST ROAD LEWISHAM 6	15.24	1962	534190	171620
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602983' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW581	HUNTS SLIP ROAD SITE CAMBERWELL BH1	2.43	1963	533310	172580
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602764' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW414	KINGSWOOD DRIVE HOUSING TP8	1.82	1953	533360	171630
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602760' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW410	KINGSWOOD DRIVE HOUSING TP4	1.82	1953	533370	171650
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602759' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW409	KINGSWOOD DRIVE HOUSING TP3	1.82	1953	533370	171700
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602761' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW411	KINGSWOOD DRIVE HOUSING TP5	1.82	1953	533410	171650
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602765' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW415	KINGSWOOD DRIVE HOUSING TP9	1.82	1953	533430	171630
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602766' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW416	KINGSWOOD DRIVE HOUSING TP10	1.82	1953	533470	171640
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602762' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW412	KINGSWOOD DRIVE HOUSING TP6	1.82	1953	533470	171680
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602758' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW408	KINGSWOOD DRIVE HOUSING TP2	1.82	1953	533490	171740
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602763' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW413	KINGSWOOD DRIVE HOUSING TP7	1.82	1953	533510	171700
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602757' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW407	KINGSWOOD DRIVE HOUSING TP1	1.82	1953	533520	171810
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602634' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW296	KINGSWOOD DRIVE NURSEY SCHOOL A	6.09	1960	533570	172010
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602635' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW297	KINGSWOOD DRIVE NURSEY SCHOOL B	9.14	1960	533580	171990
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602810' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW457	SYDENHAM HILL HOUSING BH3	9.14	1967	533780	171860
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602809' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW456	SYDENHAM HILL HOUSING BH2	12.19	1967	533810	171830
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602808' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW455	SYDENHAM HILL HOUSING BH1	18.28	1967	533850	171790
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602814' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW461	SYDENHAM HILL HOUSING BH7	9.14	1967	533850	172060
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/603160' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW729	ROCKHILL RESERVOIR CRYSTAL PAL	197.5	1988	533860	171710
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/603159' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW728	ROCKHILL RESERVOIR CRYSTAL PAL	149	1987	533870	171710
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602811' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW458	SYDENHAM HILL HOUSING BH4	9.14	1967	533880	171950
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602816' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW463	SYDENHAM HILL HOUSING TP9	3.65	1967	533920	172040
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602813' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW460	SYDENHAM HILL HOUSING BH6	12.19	1967	533940	172020
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602702' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW358	ST CLEMENT DAMES SYDENHAM HILL D	3	1971	533960	171880
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602390' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW131/E	SYDENHAM HILL 5	9.14	1967	533970	171730
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602391' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW131/F	SYDENHAM HILL 6	9.14	1967	533970	171750
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602815' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW462	SYDENHAM HILL HOUSING BH8	9.14	1967	533970	172140
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602701' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW357	ST CLEMENT DAMES SYDENHAM HILL C	3	1971	533980	171880
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602812' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW459	SYDENHAM HILL HOUSING BH5	18.28	1967	533990	172000
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602389' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW131/D	SYDENHAM HILL 4	9.14	1967	533990	171740
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Scan not currently available in GeoIndex – try GeoRecords Plus+.</a>	TQ37SW56/L	HILLCREST ROAD LEWISHAM 12	9.14	1962	534210	171580
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Scan not currently available in GeoIndex – try GeoRecords Plus+.</a>	TQ37SW56/I	HILLCREST ROAD LEWISHAM 9	9.14	1962	534220	171690
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602782' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW432	SYDENHAM WELLS PARK (CONVENIENCES)	1.52	null	534440	171830
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602789' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW436	WELLS PARK ROAD SE 26 BH2	15	1972	534540	171870
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602722' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW378	WELLS PARK RD SYDENHAM BH1	9.44	1972	534300	172070
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602723' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW379	WELLS PARK RD SYDENHAM BH2	3.35	1972	534320	172070
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602079' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW14	L.C.C.MAIN DRAINAGE LAMBETH 1A	22.55	1937	531650	174080
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602587' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW249	G.L.C. HEALTH ENGINEERING (SEWERS) R20	24.38	null	531590	174080
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602586' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW248	G.L.C. HEALTH ENGINEERING (SEWERS) R21	22.86	null	531510	174130
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602564' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW226	G.L.C. HEALTH ENGINEERING (SEWERS) Q29	12.19	null	531280	174240
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602193' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW46/D	L.C.C. TULSE HILL SITE EXTENSION LAMBETH H	9.14	1958	531200	174330
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ37SW714	EFFRA RELIEF SEWER 276/7B	Confidential	1982	531710	174330
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602191' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW46/B	L.C.C. TULSE HILL SITE EXTENSION LAMBETH F	9.14	1958	531200	174330
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602192' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW46/C	L.C.C. TULSE HILL SITE EXTENSION LAMBETH G	9.6	1958	531200	174330
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602190' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW46/A	L.C.C. TULSE HILL SITE EXTENSION LAMBETH E	7.7700000000000005	1958	531200	174330
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ37SW918	BRIXTON RING MAIN 2	Confidential	2005	531615	174336
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ37SW713	EFFRA RELIEF SEWER 276/7A	Confidential	1983	531610	174370
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ37SW712	EFFRA RELIEF SEWER 276/7	Confidential	1982	531680	174440
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602856' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW483	MUMFORD ROAD SITE SE 24 TP.A	3.04	1955	531700	174450
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602858' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW485	MUMFORD ROAD SITE SE 24 TP.C	3.04	1955	531700	174470
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602771' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW421	BRIXTON WATER LANE SITE LAMBETH TP F	2.43	1956	530960	174590
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/602770' class= 'bodyLink' target='_blank'>Scan</a>	TQ37SW420	BRIXTON WATER LANE SITE LAMBETH TP E	2.43	1956	530950	174610

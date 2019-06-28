@@ -7,7 +7,6 @@ import xlsxwriter
 import os
 import docx
 import docx.shared
-from cv2 import imread
 from docx.enum.section import WD_ORIENT
 # ==============
 # Display Header
@@ -134,7 +133,7 @@ def scale_image_portrait(picture, max_width, max_height):
     else:
         picture.height = int(current_height*scale_width)
         picture.width = int(current_width*scale_width)
-
+        
 # ==============
 #      End 
 # ==============
@@ -158,41 +157,34 @@ for i in data1:
             # Downloading image
             download_image(j, 'Borehole_logs/', i[1]+'_'+ str(count))
             # Writing to word document
-            image_loc = os.path.join('Borehole_logs',i[1]+'_'+str(count)+'.png')
-            img = imread(image_loc)
-            height, width = img.shape[:2]
-            if height > width:
-                document.add_paragraph('Reference : ' + i[1])
-                document.add_paragraph('Name : ' + i[2])                         
-                document.add_paragraph('Year : ' + i[4])
-                document.add_paragraph('Eastings: '+i[5]+' Northings: '+i[6])
-                document.add_paragraph('Sheet ' + str(count + 1) + ' of '+str(len(url)))
-                picture = document.add_picture(image_loc)
+            image_loc = os.path.join('Borehole_logs/', i[1]+'_'+ str(count)+'.png')
+            document.add_paragraph('Reference : ' + i[1])
+            document.add_paragraph('Project Name : ' + i[2] + '; Year: ' + i[4])
+            document.add_paragraph('Year : ' + i[4])                      
+            document.add_paragraph('Eastings, Northings : '+ i[5] + ', ' + i[6].rstrip())
+            document.add_paragraph('Sheet ' + str(count + 1) + ' of '+str(len(url)))
+            picture = document.add_picture(image_loc)
+            if picture.height > picture.width:
+                if section.orientation != WD_ORIENT.PORTRAIT:
+                    new_width, new_height = section.page_height, section.page_width          
+                    section.orientation = WD_ORIENT.PORTRAIT
+                    section.page_width = new_width
+                    section.page_height = new_height
                 scale_image_portrait(picture, docx.shared.Inches(5.5), docx.shared.Inches(7.2))
                 document.add_paragraph('')
                 document.add_section()
                 count += 1
             else:
-                section = document.sections[-1]
-                new_width, new_height = section.page_height, section.page_width               
-                section.orientation = WD_ORIENT.LANDSCAPE
-                section.page_width = new_width
-                section.page_height = new_height
-                document.add_paragraph('Reference : ' + i[1])
-                document.add_paragraph('Name : ' + i[2])                          
-                document.add_paragraph('Year : ' + i[4])
-                document.add_paragraph('Eastings: '+i[5]+' Northings: '+i[6])                  
-                document.add_paragraph('Sheet ' + str(count + 1) + ' of '+str(len(url)))
-                picture = document.add_picture(image_loc)
+                if section.orientation != WD_ORIENT.LANDSCAPE:
+                    new_width, new_height = section.page_height, section.page_width               
+                    section.orientation = WD_ORIENT.LANDSCAPE
+                    section.page_width = new_width
+                    section.page_height = new_height
                 scale_image_landscape(picture, docx.shared.Inches(4.8))
                 document.add_paragraph('')
                 document.add_section()
                 count += 1
-            # Reset to Portrait
-            new_width, new_height = section.page_height, section.page_width          
-            section.orientation = WD_ORIENT.PORTRAIT
-            section.page_width = new_width
-            section.page_height = new_height
+
             
         except urllib.error.HTTPError as e:
             if e.code in (..., 403, ...):
@@ -216,7 +208,7 @@ for i in data1:
 
 error_log.close()  # closing error log file
 excel.close() # closing excel file
-document.save('borehole_logs.docx')
+document.save('Borehole_logs.docx')
 
 # ===============
 # Display summary
