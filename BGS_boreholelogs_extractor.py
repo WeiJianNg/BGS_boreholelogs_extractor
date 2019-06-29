@@ -52,19 +52,26 @@ data = []
 for line in BGS:
     data.append(line.split("\t"))
 
-# Cleaning up the link column using a function 
+# Cleaning up the link column using a function
+
 def clean(lt):
     string = lt[0]
     m = re.match("<a href='(.*)\' class", string)
     new_lt = [m.group(1)+'/images/'] + lt[1::]
     return new_lt
+
 data = list(map(clean, data))
 data1 = []
 # filtering out the confidential data -> This is inefficient
+# Writing to error log for files that needs to be purchased
+error_log = open("error_log.txt","w+")
 for i in data:
-   if "shop" not in i[0]:
-       data1.append(i)
-       
+    if "shop" in i[0]:
+        print('***Note: Borehole ref: ' + i[1] + 'needs to be purchased from the website. See error log.')
+        error_log.write('***Note: Borehole ref: ' + i[1] + 'needs to be purchased from the website. \n')
+    else:
+        data1.append(i)
+
 # In cases where the name of the BH references has special character; this step will remove it
 def remove_special(lt):
     lt_new = lt
@@ -96,6 +103,7 @@ def clean2 (my_string):
 # Function to download / retrive images
 def download_image(url, file_path, file_name):
     full_path = file_path + file_name + '.png'
+    print('Downloading Borehole ' + i[1] + ' image no. ' + str(count)+' ......', end =" "),
     urllib.request.urlretrieve(url, full_path)
 
 # ==============
@@ -140,29 +148,33 @@ def scale_image_portrait(picture, max_width, max_height):
 
 counter = 0 # this is for tracking progress
 new_length = len(data1)
-error_log = open("error_log.txt","w+") # open error log file to write
 row_counter = 1
+image_count = 0
 column_counter = 0
 count1 = 0 # this is to check amount of file not downloaded
 count_error = 0 # this is to check amount of file not downloaded\
 
 for i in data1:
+    print('*****Initializing***** Retrieving download destination for Borehole '+i[1])
     url = list(urllib.request.urlopen(i[0]))
     url = list(map(str, url))
     url = list(map(clean2, url))
-    count = 0 # this is to increment the file
+    count = 1 # this is to increment the file
     for j in url:
         count1 += 1
         try:
             # Downloading image
             download_image(j, 'Borehole_logs/', i[1]+'_'+ str(count))
+            print('Completed')
+            image_count += 1
             # Writing to word document
+            print('Writing to Word Document ......', end=" ")
             image_loc = os.path.join('Borehole_logs/', i[1]+'_'+ str(count)+'.png')
             document.add_paragraph('Reference : ' + i[1])
-            document.add_paragraph('Project Name : ' + i[2] + '; Year: ' + i[4])
+            document.add_paragraph('Project Name : ' + i[2])
             document.add_paragraph('Year : ' + i[4])                      
             document.add_paragraph('Eastings, Northings : '+ i[5] + ', ' + i[6].rstrip())
-            document.add_paragraph('Sheet ' + str(count + 1) + ' of '+str(len(url)))
+            document.add_paragraph('Sheet ' + str(count) + ' of '+str(len(url)))
             picture = document.add_picture(image_loc)
             if picture.height > picture.width:
                 if section.orientation != WD_ORIENT.PORTRAIT:
@@ -184,14 +196,18 @@ for i in data1:
                 document.add_paragraph('')
                 document.add_section()
                 count += 1
+            document.save('Borehole_logs.docx')
+            print('completed')
 
             
         except urllib.error.HTTPError as e:
             if e.code in (..., 403, ...):
-                error_log.write('The image file from this link: ' + j + ' has not been downloaded due to 403 error \n')
+                print('Error downloading Borehole ' + i[1] + ' image no. ' + str(count) + ' due to server error. Check Error log')
+                error_log.write('403 Error downloading Borehole ' + i[1] + ' image no. ' + str(count) + '. link: ' + j + '\n')
                 count_error += 1
                 # appending the error link to error list for checking
                 continue
+            
     for k in i:
         worksheet.write(row_counter, column_counter, k)
         column_counter += 1
@@ -201,24 +217,24 @@ for i in data1:
     row_counter += 1
     count = 0
     counter += 1
-    print(i[1] +' file download completed. Progress = ', round(100*counter/new_length,1), '%')
+    print('***Overall Progress*** ', end=" ")
+    print(i[1] +' file download completed. Progress = '+ str(round(100*counter/new_length,1)) +'% \n')
 
 # ==== End ====
 # closing all files and saving word document
 
 error_log.close()  # closing error log file
 excel.close() # closing excel file
-document.save('Borehole_logs.docx')
 
 # ===============
 # Display summary
 # ===============
-print('Completed')
 print(100*'=')
 print('Summary Report')
 print(100*'=')
 print('Total number of logs in area:', len(data))
 print('Number of logs that needs to be purchased: %d ' % (int((len(data)-len(data1)))))
+print('Number of images downloaded: %d ' % (image_count))
 print('Number of images not downloaded due to 403 error: ', count_error, '. Please check error log for more info')
 # ===============
 #       End
