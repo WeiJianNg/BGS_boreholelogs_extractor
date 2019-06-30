@@ -8,23 +8,3 @@ Record	REFERENCE	NAME	LENGTH	YEAR_KNOWN	EASTING	NORTHING
 <a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ46SW46	BRICKFIELD FARM TP 4	Confidential	1983	544010	164500
 <a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ46SW47	BRICKFIELD FARM TP 5	Confidential	1983	544130	164540
 <a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ46SW50	BRICKFIELD FARM TP 8	Confidential	1983	544060	164540
-<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ46SW49	BRICKFIELD FARM TP 7	Confidential	1983	544090	164560
-<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ46SW43	BRICKFIELD FARM TP 1	Confidential	1983	544150	164560
-<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ46SW48	BRICKFIELD FARM TP 6	Confidential	1983	544120	164570
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/641248' class= 'bodyLink' target='_blank'>Scan</a>	TQ46SW37	DARRICK WOOD 16	5	1975	544170	164580
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/641247' class= 'bodyLink' target='_blank'>Scan</a>	TQ46SW36	DARRICK WOOD 15	11	1975	544230	164580
-<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ46SW44	BRICKFIELD FARM TP 2	Confidential	1983	544150	164580
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/641245' class= 'bodyLink' target='_blank'>Scan</a>	TQ46SW34	DARRICK WOOD 13	25	1975	544320	164630
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/641252' class= 'bodyLink' target='_blank'>Scan</a>	TQ46SW41	DARRICK WOOD 20	4	1975	544250	164630
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/641246' class= 'bodyLink' target='_blank'>Scan</a>	TQ46SW35	DARRICK WOOD 14	4	1975	544160	164640
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/641253' class= 'bodyLink' target='_blank'>Scan</a>	TQ46SW42	DARRICK WOOD 21	5	1975	544240	164650
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/641244' class= 'bodyLink' target='_blank'>Scan</a>	TQ46SW33	DARRICK WOOD 12	4	1975	544290	164670
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/641251' class= 'bodyLink' target='_blank'>Scan</a>	TQ46SW40	DARRICK WOOD 19	5	1975	544360	164690
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/641250' class= 'bodyLink' target='_blank'>Scan</a>	TQ46SW39	DARRICK WOOD 18	5	1975	544240	164690
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/641241' class= 'bodyLink' target='_blank'>Scan</a>	TQ46SW30	DARRICK WOOD 9	5	1975	544400	164710
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/641243' class= 'bodyLink' target='_blank'>Scan</a>	TQ46SW32	DARRICK WOOD 11	17	1975	544220	164720
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/641242' class= 'bodyLink' target='_blank'>Scan</a>	TQ46SW31	DARRICK WOOD 10	5	1975	544130	164730
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/641240' class= 'bodyLink' target='_blank'>Scan</a>	TQ46SW29	DARRICK WOOD 8	5	1975	544340	164740
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/641239' class= 'bodyLink' target='_blank'>Scan</a>	TQ46SW28	DARRICK WOOD 7	4	1975	544260	164760
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/641236' class= 'bodyLink' target='_blank'>Scan</a>	TQ46SW25	DARRICK WOOD 4	16	1975	544430	164760
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/641235' class= 'bodyLink' target='_blank'>Scan</a>	TQ46SW24	DARRICK WOOD 3	5	1975	544370	164800

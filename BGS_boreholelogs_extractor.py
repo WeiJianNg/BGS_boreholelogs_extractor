@@ -67,8 +67,8 @@ data1 = []
 error_log = open("error_log.txt","w+")
 for i in data:
     if "shop" in i[0]:
-        print('***Note: Borehole ref: ' + i[1] + 'needs to be purchased from the website. See error log.')
-        error_log.write('***Note: Borehole ref: ' + i[1] + 'needs to be purchased from the website. \n')
+        print('***Note: Borehole ref: ' + i[1] + ' needs to be purchased from the website. See error log.')
+        error_log.write('***Note: Borehole ref: ' + i[1] + ' needs to be purchased from the website. \n')
     else:
         data1.append(i)
 
