@@ -9,7 +9,7 @@ The aim of the script is to automate the process of extracting historical boreho
 4. GeoIndexData.txt - Sample data file that can be extracted from BGS using [GeoIndex](https://www.bgs.ac.uk/data/mapViewers/home.html?src=topNav)
 
 ## Instructions - using the Executable file (recommended):
-**It is recommended to use the Executable file as you do no need to download Python and the required Python modules**
+**It is recommended to use the Executable file "BGS_boreholelogs_extractor.exe" as you will not need to download Python and other relevant Python modules**
 1. Navigate to [GeoIndex](http://mapapps2.bgs.ac.uk/geoindex/home.html) and click **Add Data**.
 2. Under the **Borehole Section**, click **Addition Sign** for Borehole Scans.
 3. Navigate to site of interest and **Enlarge Site of Interest** until you are able to see the boreholes marked clearly on the map. See Figure below.![image1](https://user-images.githubusercontent.com/49830568/60398489-acc82e80-9b50-11e9-99cc-39f430028c06.PNG)
