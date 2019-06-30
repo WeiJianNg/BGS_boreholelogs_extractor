@@ -21,7 +21,7 @@ The aim of the script is to automate the process of extracting historical boreho
    - Borehole_logs folder - Contains all the borehole scans downloaded from the website
    - Borehole_logs.docx - A word document with compilation of all the downloaded logs
    - Data - Excel version of the "GeoIndexData.txt" file
-   - error_log - text file that records which borehole scans that haven't been downloaded due to: 1) The borehole scan needs to be purchased from the [BGS website](https://www.bgs.ac.uk/); or 2) 403 error from the website (normally due to the fact that BGS doesn't allow file that is > 0.5mb to be downloaded)
+   - error_log - text file with the record of borehole scans that haven't been downloaded due to: 1) The borehole scan needs to be purchased from the [BGS website](https://www.bgs.ac.uk/); or 2) 403 error from the website (normally due to the fact that BGS doesn't allow file that is > 0.5mb to be downloaded)
 
 ## Instructions - using the Python script:
 1. If you do not have Python installed on your system, download python via [Anaconda](https://www.anaconda.com/distribution/).
@@ -34,5 +34,5 @@ The aim of the script is to automate the process of extracting historical boreho
    - Borehole_logs folder - Contains all the borehole scans downloaded from the website
    - Borehole_logs.docx - A word document with compilation of all the downloaded logs
    - Data - Excel version of the "GeoIndexData.txt" file
-   - error_log - text file that records which borehole scans that haven't been downloaded due to: 1) The borehole scan needs to be purchased from the [BGS website](https://www.bgs.ac.uk/); or 2) 403 error from the website (normally due to the fact that BGS doesn't allow file that is >0.5mb to be downloaded)
+   - error_log - text file with the record of borehole scans that haven't been downloaded due to: 1) The borehole scan needs to be purchased from the [BGS website](https://www.bgs.ac.uk/); or 2) 403 error from the website (normally due to the fact that BGS doesn't allow file that is >0.5mb to be downloaded)
 
