@@ -8,7 +8,8 @@ The aim of the script is to automate the process of extracting historical boreho
 3. BGS_boreholelogs_extractor.spec - spec file for generating the Excutable file using Pyinstaller
 4. GeoIndexData.txt - Sample data file that can be extracted from BGS using [GeoIndex](https://www.bgs.ac.uk/data/mapViewers/home.html?src=topNav)
 
-## Instructions - using the Excutable file (recommended - don't need to download Python and packages):
+## Instructions - using the Executable file (recommended):
+**It is recommended to use the Executable file as you do no need to download Python and the required Python modules**
 1. Navigate to [GeoIndex](http://mapapps2.bgs.ac.uk/geoindex/home.html) and click **Add Data**.
 2. Under the **Borehole Section**, click **Addition Sign** for Borehole Scans.
 3. Navigate to site of interest and **Enlarge Site of Interest** until you are able to see the boreholes marked clearly on the map. See Figure below.![image1](https://user-images.githubusercontent.com/49830568/60398489-acc82e80-9b50-11e9-99cc-39f430028c06.PNG)
@@ -22,7 +23,7 @@ The aim of the script is to automate the process of extracting historical boreho
    - Data - Excel version of the "GeoIndexData.txt" file
    - error_log - text file that records which borehole scans that haven't been downloaded due to: 1) The borehole scan needs to be purchased from the [BGS website](https://www.bgs.ac.uk/); or 2) 403 error from the website (normally due to the fact that BGS doesn't allow file that is > 0.5mb to be downloaded)
 
-## Instructions - using the Python script):
+## Instructions - using the Python script:
 1. If you do not have Python installed on your system, download python via [Anaconda](https://www.anaconda.com/distribution/).
 2. Install Python-docx module. Follow the steps outlined [here](https://python-docx.readthedocs.io/en/latest/user/install.html).
 3. Follow Step 1 - 5 from the above section.
