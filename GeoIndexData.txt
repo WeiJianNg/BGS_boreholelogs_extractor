@@ -1,10 +1,36 @@
 Record	REFERENCE	NAME	LENGTH	YEAR_KNOWN	EASTING	NORTHING
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/641237' class= 'bodyLink' target='_blank'>Scan</a>	TQ46SW26	DARRICK WOOD 5	5	1975	544070	164850
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/641238' class= 'bodyLink' target='_blank'>Scan</a>	TQ46SW27	DARRICK WOOD 6	10	1975	544160	164810
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/641249' class= 'bodyLink' target='_blank'>Scan</a>	TQ46SW38	DARRICK WOOD 17	5	1975	544310	164820
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/641234' class= 'bodyLink' target='_blank'>Scan</a>	TQ46SW23	DARRICK WOOD 2	4	1975	544210	164870
-<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/641233' class= 'bodyLink' target='_blank'>Scan</a>	TQ46SW22	DARRICK WOOD 1	25	1975	544140	164890
-<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ46SW45	BRICKFIELD FARM TP 3	Confidential	1983	544060	164490
-<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ46SW46	BRICKFIELD FARM TP 4	Confidential	1983	544010	164500
-<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ46SW47	BRICKFIELD FARM TP 5	Confidential	1983	544130	164540
-<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	TQ46SW50	BRICKFIELD FARM TP 8	Confidential	1983	544060	164540
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/433092' class= 'bodyLink' target='_blank'>Scan</a>	SU87SW52	M4 WIDEN JCTS 8(9)-12RWS TP36	2	null	484873	174632
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/433091' class= 'bodyLink' target='_blank'>Scan</a>	SU87SW51	M4 WIDEN JCTS 8(9)-12RWS TP35	2	null	484967	174773
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/433000' class= 'bodyLink' target='_blank'>Scan</a>	SU87SE1	LONDON/SOUTH WALES M4 R9/4	1.52	null	485020	174800
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	SU87NE50	BEENHAMS HEATH	Confidential	null	485080	175090
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	SU87NE51	BEENHAMS HEATH	Confidential	null	485080	175090
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	SU87NE121	BEENHAMS HEATH PS NO 1	Confidential	1961	485080	175090
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	SU87NE52	BEENHAMS HEATH	Confidential	null	485080	175090
+<a href='http://shop.bgs.ac.uk/GeoRecords/' class= 'bodyLink' target='_blank'>Confidential/restricted access borehole - try GeoRecords Plus+.</a>	SU87NE49	BEENHAMS HEATH	Confidential	null	485080	175090
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/433004' class= 'bodyLink' target='_blank'>Scan</a>	SU87SE5	M4 WIDEN JCTS 8(9)-RWS TP 34	2	null	485106	174866
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/432842' class= 'bodyLink' target='_blank'>Scan</a>	SU87NE1	LONDON/SOUTH WALES M4 R9/5	1.52	null	485220	175020
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/432929' class= 'bodyLink' target='_blank'>Scan</a>	SU87NE88	M4 WIDEN JCT 8(9)-12 RWS TP33	2	null	485226	175069
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/433076' class= 'bodyLink' target='_blank'>Scan</a>	SU87SW36	M4 WIDEN JCTS 8(9)-12RWS BH44	8	null	483636	173794
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/433098' class= 'bodyLink' target='_blank'>Scan</a>	SU87SW58	M4 WIDEN JCTS 8(9)-12RWS TT45	2	null	483654	173761
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/433131' class= 'bodyLink' target='_blank'>Scan</a>	SU87SW91	M4 WIDEN JCTS 8(9)-12RWS BH239	17	null	483686	173857
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/433049' class= 'bodyLink' target='_blank'>Scan</a>	SU87SW9	LONDON/SOUTH WALES M4 B8/21	26.21	null	483690	173820
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/433141' class= 'bodyLink' target='_blank'>Scan</a>	SU87SW101	M4 WIDEN JCTS 8(9)-12RWS BHFT2	5	null	483695	173857
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/433134' class= 'bodyLink' target='_blank'>Scan</a>	SU87SW94	M4 WIDEN JCTS 8(9)-12RWS TT245	2	null	483696	173857
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/433133' class= 'bodyLink' target='_blank'>Scan</a>	SU87SW93	M4 WIDEN JCTS 8(9)-12RWS TT244	2	null	483728	173810
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/433050' class= 'bodyLink' target='_blank'>Scan</a>	SU87SW10	LONDON/SOUTH WALES M4 B8/22	30.78	null	483730	173800
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/433140' class= 'bodyLink' target='_blank'>Scan</a>	SU87SW100	M4 WIDEN JCTS 8(9)-12RWS BHFT1	1	null	483731	173811
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/433142' class= 'bodyLink' target='_blank'>Scan</a>	SU87SW102	M4 WIDEN JCTS 8(9)-12RWS BHFT5	6	null	483740	173822
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/433130' class= 'bodyLink' target='_blank'>Scan</a>	SU87SW90	M4 WIDEN JCTS 8(9)-12RWS BH238	17	null	483741	173815
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/433097' class= 'bodyLink' target='_blank'>Scan</a>	SU87SW57	M4 WIDEN JCTS 8(9)-12RWS TP43	2	null	483839	173956
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/433132' class= 'bodyLink' target='_blank'>Scan</a>	SU87SW92	M4 WIDEN JCTS 8(9)-12RWS BH252	20	null	483875	173980
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/433075' class= 'bodyLink' target='_blank'>Scan</a>	SU87SW35	M4 WIDEN JCTS 8(9)-12RWS BH42	5	null	483888	173937
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/433051' class= 'bodyLink' target='_blank'>Scan</a>	SU87SW11	LONDON/SOUTH WALES M4 R8/7	1.52	null	484010	174050
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/433074' class= 'bodyLink' target='_blank'>Scan</a>	SU87SW34	M4 WIDEN JCTS 8(9)-12RWS BH41	8	null	484134	174149
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/433096' class= 'bodyLink' target='_blank'>Scan</a>	SU87SW56	M4 WIDEN JCTS 8(9)-12RWS TT40	2	null	484160	174113
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/433095' class= 'bodyLink' target='_blank'>Scan</a>	SU87SW55	M4 WIDEN JCTS 8(9)-12RWS TT39	2	null	484258	174220
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/433052' class= 'bodyLink' target='_blank'>Scan</a>	SU87SW12	LONDON/SOUTH WALES M4 R9/1	1.52	null	484320	174230
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/433094' class= 'bodyLink' target='_blank'>Scan</a>	SU87SW54	M4 WIDEN JCTS 8(9)-12RWS TP38	2	null	484526	174351
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/433125' class= 'bodyLink' target='_blank'>Scan</a>	SU87SW85	M4 WIDEN JCTS 8(9)-12RWS BH228	13	null	484538	174365
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/433053' class= 'bodyLink' target='_blank'>Scan</a>	SU87SW13	LONDON/SOUTH WALES M4 R9/2	1.52	null	484540	174380
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/433093' class= 'bodyLink' target='_blank'>Scan</a>	SU87SW53	M4 WIDEN JCTS 8(9)-12RWS TP37	2	null	484659	174498
+<a href='http://scans.bgs.ac.uk/sobi_scans/boreholes/433054' class= 'bodyLink' target='_blank'>Scan</a>	SU87SW14	LONDON/SOUTH WALES M4 R9/3	1.52	null	484780	174580

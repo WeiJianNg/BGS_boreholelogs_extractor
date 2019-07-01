@@ -11,10 +11,10 @@ from docx.enum.section import WD_ORIENT
 # ==============
 # Display Header
 # ==============
-print(100*'=')
+print(80*'=')
 print('Author: Ng Wei Jian')
 print('Title: BGS Borehole Logs Extractor')
-print(100*'=')
+print(80*'=')
 # ==============
 #      End 
 # ==============
@@ -29,7 +29,17 @@ def check_dir(file_name):
 # ==============
 #      End 
 # ==============
-
+# =============================================================
+# Check input folder is provided
+# =============================================================
+def check_input(file_name):
+    if not os.path.isfile(file_name):
+        error_message = input('ERROR! - GeoIndexData.txt - Input file does not exist in folder, please check folder / name of input file')
+        exit()
+# ==============
+#      End 
+# ==============
+check_input("GeoIndexData.txt")
 # Create folder to store images
 check_dir(os.path.join('Borehole_logs',''))
 
@@ -64,13 +74,21 @@ data = list(map(clean, data))
 data1 = []
 # filtering out the confidential data -> This is inefficient
 # Writing to error log for files that needs to be purchased
+print('Reading Data \nDetecting borehole logs that needs to be purchased.')
+count_purchase = 0
 error_log = open("error_log.txt","w+")
 for i in data:
     if "shop" in i[0]:
-        print('***Note: Borehole ref: ' + i[1] + ' needs to be purchased from the website. See error log.')
-        error_log.write('***Note: Borehole ref: ' + i[1] + ' needs to be purchased from the website. \n')
+        print('***Note: Borehole ' + i[1] + ' needs to be purchased. See error log.')
+        error_log.write('***Note: Borehole ref: ' + i[1] + ' needs to be purchased from the website. Link: http://shop.bgs.ac.uk/GeoRecords \n')
+        count_purchase += 1
     else:
         data1.append(i)
+    
+if count_purchase == 0:
+    print('None found.\n')
+else:
+    print('Total of ' + str(count_purchase) + ' logs needs to be purchased. see error_log.\n')
 
 # In cases where the name of the BH references has special character; this step will remove it
 def remove_special(lt):
@@ -155,7 +173,8 @@ count1 = 0 # this is to check amount of file not downloaded
 count_error = 0 # this is to check amount of file not downloaded\
 
 for i in data1:
-    print('*****Initializing***** Retrieving download destination for Borehole '+i[1])
+    print('*****Initializing*****Borehole '+i[1] +' download')
+    print('Retrieving download destination for Borehole '+i[1])
     url = list(urllib.request.urlopen(i[0]))
     url = list(map(str, url))
     url = list(map(clean2, url))
@@ -217,8 +236,8 @@ for i in data1:
     row_counter += 1
     count = 0
     counter += 1
-    print('***Overall Progress*** ', end=" ")
-    print(i[1] +' file download completed. Progress = '+ str(round(100*counter/new_length,1)) +'% \n')
+    print('*********End**********Borehole '+i[1] +' Download Completed')
+    print('Overall Progress = '+ str(round(100*counter/new_length,1)) +'%\n')
 
 # ==== End ====
 # closing all files and saving word document
@@ -229,9 +248,9 @@ excel.close() # closing excel file
 # ===============
 # Display summary
 # ===============
-print(100*'=')
+print(80*'=')
 print('Summary Report')
-print(100*'=')
+print(80*'=')
 print('Total number of logs in area:', len(data))
 print('Number of logs that needs to be purchased: %d ' % (int((len(data)-len(data1)))))
 print('Number of images downloaded: %d ' % (image_count))
