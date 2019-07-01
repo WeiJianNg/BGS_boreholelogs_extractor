@@ -12,9 +12,12 @@ The aim of the script is to automate the process of extracting historical boreho
 **It is recommended to use the Executable file "BGS_boreholelogs_extractor.exe" as you will not need to download Python and other relevant Python modules**
 1. Navigate to [GeoIndex](http://mapapps2.bgs.ac.uk/geoindex/home.html) and click **Add Data**.
 2. Under the **Borehole Section**, click **Addition Sign** for Borehole Scans.
-3. Navigate to site of interest and **Enlarge Site of Interest** until you are able to see the boreholes marked clearly on the map. See Figure below.![image1](https://user-images.githubusercontent.com/49830568/60398489-acc82e80-9b50-11e9-99cc-39f430028c06.PNG)
-4. Under the **Search Tab**, click **Polygon Spatial** query button and **Draw** the area of interest on the map. See Figure below.![image2](https://user-images.githubusercontent.com/49830568/60398495-bc477780-9b50-11e9-8788-47818cdfe3f9.PNG)
-5. Click **Export** selection which will download the "GeoIndexData.txt" file. The text file contains the list of boreholes located within the area of interest.
+3. Navigate to site of interest and **Enlarge Site of Interest** until you are able to see the boreholes marked clearly on the map. See Figure below.
+![image1](https://user-images.githubusercontent.com/49830568/60398489-acc82e80-9b50-11e9-99cc-39f430028c06.PNG)
+4. Under the **Search Tab**, click **Polygon Spatial** query button and **Draw** the area of interest on the map. See Figure below.
+![image2](https://user-images.githubusercontent.com/49830568/60398495-bc477780-9b50-11e9-8788-47818cdfe3f9.PNG)
+5. Click **Export** selection which will download the "GeoIndexData.txt" file. The text file contains the list of boreholes located within the area of interest. See Figure Below.
+![image3](https://user-images.githubusercontent.com/49830568/60468651-37448700-9c52-11e9-8c5f-686d89b832fb.PNG)
 6. **Save** the **"GeoIndexData.txt"** file together **with** the **"BGS_boreholelogs_extractor.exe"**.
 7. **Run** the **BGS_boreolelogs_extractor.exe** file.
 8. Upon completion of the downloading process, you should see following **Outputs** in the folder:
